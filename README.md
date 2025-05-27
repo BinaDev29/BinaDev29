@@ -4,18 +4,17 @@
   </a>
 </h1>
 
-
 <h3 align="center">Building pixel-perfect interfaces with clean, efficient code</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW1zY2F4b3g5bWl4eXQ1eGJ1aGJ6Y2FqZ2NtYzR4eG5oZ2F3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
   <br/>
 
   ![Profile Views](https://komarev.com/ghpvc/?username=binadev29&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
   ![Twitter Follow](https://img.shields.io/twitter/follow/binadev29?logo=twitter&style=for-the-badge&color=1DA1F2)
-  ![Years Coding](https://img.shields.io/badge/dynamic/xml?color=blue&label=Years+Coding&query=%2F%2Fspan%5B%40class%3D%27highlight%27%5D&url=https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F%3Fuser%3Dbinadev29&style=for-the-badge)
 </div>
+
+---
 
 ## 🔥 GitHub Analytics
 
@@ -26,7 +25,8 @@
   <br/>
 
   <img src="https://github-readme-stats.vercel.app/api?username=binadev29&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binadev29&layout=compact&theme=radical&langs_count=8&hide=tex,jupyter%20notebook" height="180"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binadev29&layout=compact&theme=radical&langs_count=10&hide=Jupyter%20Notebook,shell" height="180"/>
 
   <br/>
 
@@ -34,65 +34,69 @@
 
 </div>
 
+---
+
 ## 🛠 Technical Skills
 
-### Frontend Development
-<div align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+### 👨‍💻 Languages
+<div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</div>
+
+### 🌐 Frontend
+<div>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 </div>
 
-### Backend Development
-<div align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+### 🖥 Backend & Databases
+<div>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-</div>
-
-### Databases
-<div align="left">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
-<div align="left">
+
+### 🛠 Tools & Platforms
+<div>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </div>
+
+---
 
 ## 🚀 Featured Projects
 
-<div align="center">
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [Project 1](#) | E-commerce platform | React, Node.js, MongoDB |
+| [Project 2](#) | Task management app | Next.js, Firebase |
+| [Project 3](#) | Portfolio website | HTML, CSS, JS |
 
-  | Project | Description | Tech Stack |
-  |---------|-------------|------------|
-  | [Project 1](link) | E-commerce platform | React, Node.js, MongoDB |
-  | [Project 2](link) | Task management app | Next.js, Firebase |
-  | [Project 3](link) | Portfolio website | Gatsby, GraphQL |
-
-</div>
+---
 
 ## 🌱 Currently Learning
 
 <div align="center">
-
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
+
+---
 
 ## 📫 Connect With Me
 
@@ -106,14 +110,12 @@
 
 </div>
 
-## 📝 Latest Blog Posts
+---
 
-- [Optimizing React Performance](link) - Tips and tricks for faster React apps
-- [JavaScript ES2023 Features](link) - Exploring the latest JavaScript features
 ## 🎯 2025 Goals
 
 ```diff
 + Master TypeScript and Next.js
 + Contribute to 5+ open source projects
-! Build a full-stack SaaS application
-- Learn AWS cloud architecture
++ Launch my portfolio with Java, C++ & Python projects
+- Deploy a full-stack SaaS app on AWS
