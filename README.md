@@ -71,18 +71,6 @@
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 </div>
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-  | Project | Description | Tech Stack |
-  |---------|-------------|------------|
-  | [Project 1](link) | E-commerce platform | React, Node.js, MongoDB |
-  | [Project 2](link) | Task management app | Next.js, Firebase |
-  | [Project 3](link) | Portfolio website | Gatsby, GraphQL |
-
-</div>
-
 ## 🌱 Currently Learning
 
 <div align="center">
@@ -117,5 +105,3 @@ diff
 + Contribute to 5+ open source projects
 ! Build a full-stack SaaS application
 - Learn AWS cloud architecture
-
-hi chatgpt i have java knowlage and am good in js why not in
