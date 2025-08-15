@@ -5,7 +5,7 @@
 </h1>
 
 
-<h3 align="center">Building pixel-perfect interfaces with clean, efficient code</h3>
+<h3 align="center"></h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW1zY2F4b3g5bWl4eXQ1eGJ1aGJ6Y2FqZ2NtYzR4eG5oZ2F3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
