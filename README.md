@@ -124,8 +124,8 @@ JSON         58 mins         █░░░░░░░░░░░░░░░░
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=binadev29&theme=tokyonight" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=binadev29&theme=tokyonight&utcOffset=3" alt="Productive Time"/>
+  <img src="https://github.com/BinaDev29/PNSFORALLAPP/api/cards/stats?username=binadev29&theme=tokyonight" alt="Stats"/>
+  <img src="https://github.com/BinaDev29/SIMS/api/cards/productive-time?username=binadev29&theme=tokyonight&utcOffset=3" alt="Productive Time"/>
 </div>
 
 </div>
