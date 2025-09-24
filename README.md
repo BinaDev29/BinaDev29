@@ -124,8 +124,8 @@ JSON         58 mins         █░░░░░░░░░░░░░░░░
 </div>
 
 <div align="center">
-  <img src="https://github.com/BinaDev29/PNSFORALLAPP/api/cards/stats?username=binadev29&theme=tokyonight" alt="Stats"/>
-  <img src="https://github.com/BinaDev29/SIMS/api/cards/productive-time?username=binadev29&theme=tokyonight&utcOffset=3" alt="Productive Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=binadev29&theme=tokyonight" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=binadev29&theme=tokyonight&utcOffset=3" alt="Productive Time"/>
 </div>
 
 </div>
@@ -137,11 +137,11 @@ JSON         58 mins         █░░░░░░░░░░░░░░░░
 <div align="center">
 
 ### 🌟 Pinned Repositories
-<a href="https://github.com/binadev29/awesome-project-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=binadev29&repo=awesome-project-1&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<a href="https://github.com/binadev29/PNSFORALLAPP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=binadev29&repo=PNSFORALLAPP&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </a>
-<a href="https://github.com/binadev29/awesome-project-2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=binadev29&repo=awesome-project-2&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<a href="https://github.com/binadev29/SIMS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=binadev29&repo=SIMS&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </a>
 
 ### 🔥 Recent Activity
@@ -344,40 +344,3 @@ If you like my work and want to support me, consider buying me a coffee! ☕
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave"/>
 
 </div>
-```
-
----
-
-## 🎨 Customization Guide
-
-This enhanced README includes:
-
-### ✨ **New Features Added:**
-1. **Animated Headers** - Multiple typing animations with gradients
-2. **Enhanced Stats** - Multiple GitHub stats widgets with consistent theming
-3. **Skill Icons** - Modern skill icons with hover effects
-4. **Activity Graphs** - Contribution graphs and activity timelines
-5. **Project Showcase** - Pinned repositories and recent activity
-6. **Personal Touch** - Fun facts, philosophy, and interests
-7. **Blog Integration** - Latest posts and YouTube videos
-8. **Social Links** - Comprehensive social media presence
-9. **Goals & Roadmap** - Clear 2025 objectives and learning path
-10. **Support Section** - Multiple ways for people to support your work
-11. **Snake Animation** - GitHub contribution snake game
-12. **Professional Layout** - Clean, organized, and mobile-responsive
-
-### 🛠️ **Customization Instructions:**
-1. Replace `binadev29` with your GitHub username throughout
-2. Update social media links with your actual profiles
-3. Modify the skills section to match your tech stack
-4. Add your actual project repositories in the pinned section
-5. Update the blog post links with your real articles
-6. Customize the fun facts and personal information
-7. Adjust the 2025 goals to match your objectives
-
-### 📱 **Mobile Responsive:**
-- All elements are designed to work well on mobile devices
-- Images and stats cards automatically adjust to screen size
-- Text remains readable across all device types
-
-This enhanced README will make your GitHub profile stand out with modern animations, comprehensive stats, and professional presentation! 🌟
