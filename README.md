@@ -91,11 +91,9 @@ personality_traits:
 ### 🌟 Quick Facts
 - 🔥 **3+ years** of professional development experience
 - 💼 **20+ projects** completed successfully
-- 🌍 **5+ countries** clients served globally
-- ⭐ **2.5K+ GitHub stars** across repositories
 - 📝 **25+ technical articles** published
 - 🎓 **15+ developers** mentored
-- 🏆 **10+ certifications** earned
+- 🏆 **6+ certifications** earned
 - 💡 **Always learning** new technologies
 
 ### 🎯 Current Goals 2025
