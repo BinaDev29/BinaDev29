@@ -15,7 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=binadev29&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/binadev29?logo=github&style=for-the-badge&color=0e75b6&labelColor=1c1917" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/binadev29?affiliations=OWNER%2CCOLLABORATOR&logo=github&style=for-the-badge&color=0e75b6&labelColor=1c1917" alt="GitHub Stars" />
-  <img src="https://img.shields.io/badge/Years+Coding-5%2B-blue?style=for-the-badge&logo=code&logoColor=white" alt="Years Coding" />
+  <img src="https://img.shields.io/badge/Years+Coding-3%2B-blue?style=for-the-badge&logo=code&logoColor=white" alt="Years Coding" />
 </div>
 
 ---
