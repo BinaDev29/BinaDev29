@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Header with Multiple Animations -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Biniyam%20Tehakele&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=🚀%20Full-Stack%20Developer%20|%20🌟%20Open%20Source%20Enthusiast%20|%20🇪🇹%20From%20Ethiopia&descAlignY=55&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Biniyam%20Tehakele&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=%20Full-Stack%20Developer%20|%20🌟%20Open%20Source%20Enthusiast%20|%20🇪🇹%20From%20Ethiopia&descAlignY=55&descSize=20"/>
 
 <!-- Multi-Line Typing Animation with Emojis -->
 <h1 align="center">
