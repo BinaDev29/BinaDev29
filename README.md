@@ -55,7 +55,7 @@ title: Full-Stack Developer & Tech Enthusiast
 location: Addis Ababa, Ethiopia 🇪🇹
 experience: 3+ Years in Web Development
 education: 
-  - "Computer Science Graduate"
+  - "Computer Science UnderGraduate"
   - "Self-Taught Developer"
   - "Continuous Learner & Innovator"
 status: "Available for Freelance & Full-time"
