@@ -6,7 +6,7 @@
 <!-- Multi-Line Typing Animation with Emojis -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=1000&height=140&lines=👋+Hi%2C+I'm+Biniyam+Tehakele;🚀+Full-Stack+Developer+from+Ethiopia+🇪🇹;⚡+React+|+Next.js+|+TypeScript+Expert;🔥+C%23+.NET+Framework+Specialist;🌟+Building+Scalable+Web+Applications;💚+Open+Source+Contributor+%26+Mentor;✨+Turning+Creative+Ideas+into+Digital+Reality;🎯+Code+|+Create+|+Innovate+|+Inspire" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=1000&height=140&lines=👋+Hi%2C+I'm+Biniyam+Tehakele;+Full-Stack+Developer+from+Ethiopia+🇪🇹;⚡+React+|+Next.js+|+TypeScript+Expert;🔥+C%23+.NET+Framework+Specialist;🌟+Building+Scalable+Web+Applications;💚+Open+Source+Contributor+%26+Mentor;✨+Turning+Creative+Ideas+into+Digital+Reality;🎯+Code+|+Create+|+Innovate+|+Inspire" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -55,7 +55,7 @@ title: Full-Stack Developer & Tech Enthusiast
 location: Addis Ababa, Ethiopia 🇪🇹
 experience: 3+ Years in Web Development
 education: 
-  - "Computer Science UnderGraduate"
+  - "Computer Science Graduate"
   - "Self-Taught Developer"
   - "Continuous Learner & Innovator"
 status: "Available for Freelance & Full-time"
@@ -91,9 +91,11 @@ personality_traits:
 ### 🌟 Quick Facts
 - 🔥 **3+ years** of professional development experience
 - 💼 **20+ projects** completed successfully
+- 🌍 **5+ countries** clients served globally
+- ⭐ **2.5K+ GitHub stars** across repositories
 - 📝 **25+ technical articles** published
 - 🎓 **15+ developers** mentored
-- 🏆 **6+ certifications** earned
+- 🏆 **10+ certifications** earned
 - 💡 **Always learning** new technologies
 
 ### 🎯 Current Goals 2025
@@ -458,6 +460,20 @@ JSON         25 mins         ░░░░░░░░░░░░░░░░░
       <br><sub>GitHub followers</sub>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🔥_LONGEST_STREAK-16%2B_DAYS-orange?style=for-the-badge&logo=fire&logoColor=white" />
+      <br><sub>Longest coding streak achieved</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/📈_CURRENT_STREAK-8_DAYS-green?style=for-the-badge&logo=trending-up&logoColor=white" />
+      <br><sub>Current active coding streak</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/💯_CONTRIBUTION_SCORE-95%25-success?style=for-the-badge&logo=chart&logoColor=white" />
+      <br><sub>Overall contribution activity</sub>
+    </td>
+  </tr>
 </table>
 
 ### 📈 Performance Metrics Dashboard
@@ -672,7 +688,8 @@ const biniyamTehakele = {
   },
   currentFocus: "Building scalable SaaS applications",
   funFact: "I debug with console.log() and I'm proud of it! 😄",
-  motto: "Code with purpose, build with passion! 🚀"
+  motto: "Code with purpose, build with passion! 🚀",
+  longestStreak: "16+ days of continuous coding! 🔥"
 };
 ```
 
