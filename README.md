@@ -14,20 +14,20 @@
   <img src="https://img.shields.io/github/stars/binadev29?label=Total%20Stars&style=for-the-badge&color=yellow&logo=github" alt="GitHub Stars" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge" alt="Focus" />
   <img src="https://img.shields.io/badge/Lives-Ethiopia%20🇪🇹-red?style=for-the-badge" alt="Location" />
-  <img src="https://img.shields.io/badge/Languages-5+-orange?style=for-the-badge" alt="Languages" />
+  <img src="https://img.shields.io/badge/Languages-10+-orange?style=for-the-badge" alt="Languages" />
 </p>
 
 </div>
 
 <div align="center">
-  <img src="/images/GitHubSnakeAnimation.jpg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/binadev29/binadev29/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
 
 ## <img src="https://media.giphy.com/media/WUlplcMOCEmTGBtBW/giphy.gif" width="30"> 🚀 About Me - The Developer Behind the Code
 
-<img align="right" alt="Coding" width="400" src="/images/Developer.jpg">
+<img align="right" alt="Coding" width="400" src="/images/photo1762413742.jpg">
 
 ```typescript
 interface Developer {
@@ -42,9 +42,9 @@ interface Developer {
 
 const biniyamTehakele: Developer = {
   name: "Biniyam Tehakele",
-  role: "Senior Full-Stack Developer & Tech Innovator",
+  role: "Full-Stack Developer & Tech Innovator",
   location: "Addis Ababa, Ethiopia 🇪🇹",
-  experience: "3+ Years of Professional Development",
+  experience: "2+ Years of Coding Journey (Started 2022)",
   
   specialties: [
     "🚀 Modern Web Applications (React, Next.js, Vue)",
@@ -58,24 +58,23 @@ const biniyamTehakele: Developer = {
   currentProjects: [
     "🛒 Multi-tenant E-commerce Platform",
     "🤖 AI-Powered Task Management System", 
-    "🌐 Decentralized Social Network",
+    "🌐 Personal Portfolio Website",
     "📊 Real-time Analytics Dashboard"
   ],
   
   goals2024: [
-    "🚀 Launch 3 SaaS Products",
-    "🎤 Speak at International Tech Conference",
+    "🚀 Launch First SaaS Product",
+    "🎤 Speak at Tech Conference",
     "📚 Publish Technical Articles",
-    "🌍 Mentor 50+ Developers Globally"
+    "🌍 Mentor Junior Developers"
   ]
 };
 
 const personalStats = {
   coffeeConsumed: "∞ cups of premium Ethiopian coffee ☕",
-  linesOfCode: "100,000+ and counting...",
-  projectsCompleted: "50+ successful deliveries",
-  happyClients: "25+ satisfied customers worldwide",
-  openSourceContributions: "200+ commits to various projects",
+  linesOfCode: "50,000+ and counting...",
+  projectsCompleted: "25+ successful deliveries",
+  openSourceContributions: "100+ commits to various projects",
   motto: "Innovation through code, impact through technology! 🌟"
 };
 ```
@@ -142,28 +141,27 @@ const personalStats = {
 
 <div align="center">
 
-#### 🛒 **EcoMart SaaS Platform**
-*Next-Generation E-commerce Solution*
+#### 🛒 **EcoMart Platform**
+*E-commerce Solution*
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
 
-**🔧 Tech Stack:** React 18, .NET 8, PostgreSQL, Redis, Stripe  
+**🔧 Tech Stack:** React, .NET, PostgreSQL, Redis  
 **🌟 Key Features:**  
-• Multi-tenant Architecture  
-• Real-time Analytics Dashboard  
-• AI-Powered Recommendations  
-• Automated Inventory Management  
+• Modern UI/UX Design  
+• Real-time Product Search  
+• Secure Payment Integration  
+• Admin Dashboard  
 
 **📊 Impact Metrics**  
-• 15+ Active Businesses  
-• $250K+ Monthly Transactions  
-• 99.9% Uptime Record  
-• 4.9/5 User Satisfaction  
+• Responsive Design  
+• Fast Loading Speed  
+• Clean Code Architecture  
+• Modern Development Practices  
 
 <p>
 <a href="#"><img src="https://img.shields.io/badge/🌐_Live_Demo-37a779?style=for-the-badge&logo=vercel" alt="Demo"></a>
 <a href="#"><img src="https://img.shields.io/badge/📁_Source_Code-24292e?style=for-the-badge&logo=github" alt="Code"></a>
-<a href="#"><img src="https://img.shields.io/badge/📖_Documentation-blue?style=for-the-badge&logo=gitbook" alt="Docs"></a>
 </p>
 
 </div>
@@ -173,28 +171,27 @@ const personalStats = {
 
 <div align="center">
 
-#### 🤖 **TaskFlow AI Pro**
-*Intelligent Project Management*
+#### 🤖 **TaskFlow Manager**
+*Project Management Tool*
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="200">
 
-**🔧 Tech Stack:** Next.js, TypeScript, Node.js, MongoDB, OpenAI  
+**🔧 Tech Stack:** Next.js, TypeScript, MongoDB  
 **🌟 Key Features:**  
-• AI Task Prioritization  
-• Real-time Team Collaboration  
-• Predictive Analytics  
-• Voice Command Integration  
+• Task Organization  
+• Team Collaboration  
+• Progress Tracking  
+• Real-time Updates  
 
 **📊 Impact Metrics:**  
-• 1,000+ Active Users  
-• 40% Productivity Increase  
-• Featured on Product Hunt  
-• 95% User Retention Rate  
+• User-Friendly Interface  
+• Efficient Workflow  
+• Modern Tech Stack  
+• Scalable Architecture  
 
 <p>
 <a href="#"><img src="https://img.shields.io/badge/🌐_Live_Demo-37a779?style=for-the-badge&logo=vercel" alt="Demo"></a>
 <a href="#"><img src="https://img.shields.io/badge/📁_Source_Code-24292e?style=for-the-badge&logo=github" alt="Code"></a>
-<a href="#"><img src="https://img.shields.io/badge/🏆_Awards-gold?style=for-the-badge&logo=trophy" alt="Awards"></a>
 </p>
 
 </div>
@@ -206,28 +203,27 @@ const personalStats = {
 
 <div align="center">
 
-#### 🎨 **PortfolioCraft CMS**
-*Dynamic Portfolio Builder*
+#### 🎨 **Portfolio Website**
+*Personal Branding Platform*
 
-<img src="/images/Portfolio.jpg" width="200">
+<img src="/images/photo1762413741.jpg" width="200">
 
-**🔧 Tech Stack:** React, GraphQL, Prisma, PostgreSQL, Strapi  
+**🔧 Tech Stack:** React, Tailwind CSS, Framer Motion  
 **🌟 Key Features:**  
-• Drag & Drop Builder  
-• SEO Optimization Engine  
-• Custom Theme Creator  
-• Performance Analytics  
+• Responsive Design  
+• Smooth Animations  
+• Project Showcase  
+• Contact Integration  
 
 **📊 Impact Metrics:**  
-• 500+ Portfolios Created  
-• 50+ Custom Themes  
-• 98% Lighthouse Score  
-• International Recognition  
+• Professional Presentation  
+• Mobile-First Design  
+• SEO Optimized  
+• Fast Performance  
 
 <p>
-<a href="#"><img src="https://img.shields.io/badge/🌐_Live_Demo-37a779?style=for-the-badge&logo=vercel" alt="Demo"></a>
+<a href="https://biniyamtehakeleportfolio.netlify.app"><img src="https://img.shields.io/badge/🌐_Live_Demo-37a779?style=for-the-badge&logo=vercel" alt="Demo"></a>
 <a href="#"><img src="https://img.shields.io/badge/📁_Source_Code-24292e?style=for-the-badge&logo=github" alt="Code"></a>
-<a href="#"><img src="https://img.shields.io/badge/🎨_Gallery-purple?style=for-the-badge&logo=dribbble" alt="Gallery"></a>
 </p>
 
 </div>
@@ -237,28 +233,27 @@ const personalStats = {
 
 <div align="center">
 
-#### 🔐 **SecureAuth Pro**
-*Enterprise Authentication Service*
+#### 🔐 **Auth System**
+*Authentication Service*
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="200">
 
-**🔧 Tech Stack:** .NET Core, JWT, OAuth2, Redis, Docker  
+**🔧 Tech Stack:** .NET Core, JWT, OAuth2  
 **🌟 Key Features:**  
-• Multi-Factor Authentication  
-• Social Login Integration  
-• Advanced Rate Limiting  
-• Comprehensive Audit Logs  
+• Secure Authentication  
+• Social Login  
+• Role Management  
+• Session Handling  
 
 **📊 Impact Metrics:**  
-• 99.99% Uptime  
-• 5M+ Daily Requests  
-• Zero Security Breaches  
-• Enterprise Grade Compliance  
+• Security Best Practices  
+• Scalable Architecture  
+• Clean Implementation  
+• Industry Standards  
 
 <p>
 <a href="#"><img src="https://img.shields.io/badge/🌐_Live_Demo-37a779?style=for-the-badge&logo=vercel" alt="Demo"></a>
 <a href="#"><img src="https://img.shields.io/badge/📁_Source_Code-24292e?style=for-the-badge&logo=github" alt="Code"></a>
-<a href="#"><img src="https://img.shields.io/badge/🛡️_Security-red?style=for-the-badge&logo=security" alt="Security"></a>
 </p>
 
 </div>
@@ -267,41 +262,30 @@ const personalStats = {
 </tr>
 </table>
 
-### 🚀 More Amazing Projects
+### 🚀 More Projects
 
 <details>
-<summary><b>🌐 Web Applications & SaaS Products</b></summary>
+<summary><b>🌐 Web Applications & Learning Projects</b></summary>
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| 📊 **DataViz Pro** | Advanced data visualization platform | D3.js, React, Python, FastAPI | 🚀 Live |
-| 🎵 **MusicStream AI** | AI-powered music recommendation engine | Next.js, TensorFlow, Node.js | 🔄 Beta |
-| 💰 **CryptoTracker Pro** | Real-time cryptocurrency portfolio manager | Vue.js, WebSocket, Redis | 🚀 Live |
-| 🏥 **HealthCare Portal** | Telemedicine and patient management system | React, .NET, PostgreSQL | 🔄 Development |
-| 🎮 **GameHub Social** | Gaming community and tournament platform | Next.js, Socket.io, MongoDB | 🔄 Beta |
+| 📊 **Data Dashboard** | Analytics and visualization platform | React, D3.js, Node.js | 🚀 Live |
+| 🎵 **Music Player** | Streaming music application | Vue.js, Express, MongoDB | 🔄 Development |
+| 💰 **Expense Tracker** | Personal finance management tool | React Native, Firebase | 🚀 Live |
+| 🏥 **Clinic Management** | Healthcare management system | Angular, .NET, SQL Server | 🔄 Development |
+| 🎮 **Game Hub** | Gaming community platform | Next.js, Socket.io | 🔄 Beta |
 
 </details>
 
 <details>
-<summary><b>🤖 AI & Machine Learning Projects</b></summary>
+<summary><b>🤖 AI & Modern Tech Projects</b></summary>
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| 🧠 **SmartChat Bot** | Conversational AI with context awareness | Python, OpenAI, FastAPI | 🚀 Live |
-| 📸 **ImageAI Studio** | Advanced image processing and enhancement | TensorFlow, OpenCV, React | 🔄 Beta |
-| 📝 **ContentGen AI** | Automated content generation platform | GPT-4, Next.js, Prisma | 🚀 Live |
-| 🔍 **SearchOptimizer** | AI-powered SEO analysis tool | Python, NLP, Vue.js | 🔄 Development |
-
-</details>
-
-<details>
-<summary><b>📱 Mobile & Cross-Platform Apps</b></summary>
-
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| 📱 **TaskFlow Mobile** | Cross-platform task management app | React Native, Expo, Firebase | 🚀 Live |
-| 🛍️ **ShopEasy Mobile** | E-commerce mobile application | Flutter, Dart, Node.js | 🔄 Beta |
-| 🎯 **FitnessTracker AI** | AI-powered fitness and health tracker | React Native, TensorFlow Lite | 🔄 Development |
+| 🧠 **AI Chatbot** | Conversational AI assistant | Python, OpenAI, FastAPI | 🚀 Live |
+| 📸 **Image Processor** | Image enhancement tool | React, TensorFlow.js | 🔄 Beta |
+| 📝 **Content Generator** | AI-powered content creation | Next.js, GPT API | 🔄 Development |
+| 🔍 **Smart Search** | Intelligent search engine | Python, Elasticsearch | 🔄 Development |
 
 </details>
 
@@ -330,83 +314,97 @@ const personalStats = {
 
 <img src="https://github-profile-trophy.vercel.app/?username=binadev29&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
 
-### 📊 Detailed Contribution Stats
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=binadev29&theme=tokyonight" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=binadev29&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=binadev29&theme=tokyonight" />
-
-</div>
-
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> 🧩 Coding Challenges & Competitive Programming
+### 📊 Programming Languages Used
 
 <div align="center">
 
-### 🎯 LeetCode Mastery Journey
-
-<img src="https://leetcard.jacoblin.cool/binadev29?ext=heatmap&border=0&radius=15&theme=unicorn" alt="LeetCode Profile" />
-
-### 📊 Problem Solving Excellence
-
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=binadev29&theme=dark)
-
-### 🏆 Competitive Programming Achievements
+#### 💻 Languages from My Repositories
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
-**🔥 LeetCode**  
-![LeetCode](https://img.shields.io/badge/Problems-750+-orange?style=for-the-badge&logo=leetcode)  
-**Rating:** 1950+  
-**Rank:** Top 10%  
-
-</td>
-<td align="center" width="25%">
-
-**⚡ HackerRank**  
-![HackerRank](https://img.shields.io/badge/Stars-5⭐-brightgreen?style=for-the-badge&logo=hackerrank)  
-**Domains:** Algorithms, DS  
-**Badges:** 15+ Gold  
+**JavaScript**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+*Frontend & Backend*
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
-**🎯 CodeChef**  
-![CodeChef](https://img.shields.io/badge/Rating-1800+-blue?style=for-the-badge&logo=codechef)  
-**Division:** 3 Star  
-**Contests:** 50+ Participated  
+**TypeScript**  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+*Type-Safe Development*
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
-**🚀 Codeforces**  
-![Codeforces](https://img.shields.io/badge/Rating-1600+-red?style=for-the-badge&logo=codeforces)  
-**Rank:** Specialist  
-**Problems:** 300+ Solved  
+**Python**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+*AI & Backend*
+
+</td>
+<td align="center" width="20%">
+
+**C#**  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+*.NET Development*
+
+</td>
+<td align="center" width="20%">
+
+**Java**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+*Enterprise Apps*
+
+</td>
+</tr>
+<tr>
+<td align="center" width="20%">
+
+**HTML5**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+*Web Structure*
+
+</td>
+<td align="center" width="20%">
+
+**CSS3**  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+*Styling & Design*
+
+</td>
+<td align="center" width="20%">
+
+**PHP**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+*Server-Side*
+
+</td>
+<td align="center" width="20%">
+
+**Dart**  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
+*Flutter Development*
+
+</td>
+<td align="center" width="20%">
+
+**SQL**  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+*Database Queries*
 
 </td>
 </tr>
 </table>
 
-### 📈 Coding Activity Heatmap
+</div>
 
-```
-    Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
-Mon ⬜⬜⬜🟩🟩🟩🟩🟩🟩🟩🟩🟩
-Tue ⬜⬜🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
-Wed ⬜🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
-Thu 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
-Fri 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
-Sat 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
-Sun ⬜⬜🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
+### 📊 Detailed Language Statistics
 
-🟩 Active Days: 280+ | ⬜ Rest Days: 85
-Current Streak: 45 days | Longest Streak: 127 days
-```
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=binadev29&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=binadev29&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=binadev29&theme=tokyonight" />
 
 </div>
 
@@ -420,94 +418,79 @@ Current Streak: 45 days | Longest Streak: 127 days
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
-#### 🏢 **Senior Full-Stack Developer**
-**2022 - Present | Remote & Hybrid**
+#### 🌟 **Self-Taught Developer & Student**
+**2022 - Present | Learning & Building**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284175-f47e8681-8df5-4fdd-a5d7-cc44b7425968.gif" width="300">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
 
-**🎯 Key Achievements:**
-- 🚀 Led development of **30+ enterprise applications**
-- ⚡ Improved system performance by **60%** through optimization
-- 👥 Mentored **20+ junior developers** across multiple teams
-- 🔧 Architected **microservices** handling **10M+ requests/day**
-- 📊 Reduced deployment time by **75%** with CI/CD implementation
-- 🏆 Received **"Developer of the Year"** award (2023)
+**🎯 Learning Journey:**
+- 🚀 Started coding journey in **2022**
+- 📚 Self-taught through online resources and documentation
+- 💻 Built **25+ personal projects** to practice skills
+- 🌱 Continuously learning new technologies and frameworks
+- 🔧 Focused on **full-stack development** with modern tools
+- 📊 Gained experience in **frontend, backend, and databases**
 
-**💡 Technical Leadership:**
-- Designed scalable architecture for multi-tenant SaaS platforms
-- Implemented advanced security protocols and compliance standards
-- Led migration from monolith to microservices architecture
-- Established coding standards and best practices for the team
+**💡 Key Achievements:**
+- Mastered multiple programming languages and frameworks
+- Built responsive and interactive web applications
+- Implemented secure authentication and database systems
+- Learned cloud deployment and DevOps practices
+- Developed problem-solving and debugging skills
+- Created a professional portfolio showcasing projects
 
-</td>
-<td width="50%" valign="top">
-
-#### 🌟 **Full-Stack Developer**
-**2021 - 2022 | Freelance & Contract**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="300">
-
-**🎯 Key Achievements:**
-- 🌍 Built applications for **15+ international clients**
-- 📱 Delivered **25+ responsive web applications**
-- 🎨 Collaborated with design teams across **8+ countries**
-- 🚀 Achieved **98+ Lighthouse scores** on all projects
-- ⏰ Delivered projects **30% faster** than industry average
-- 💯 Maintained **100% client satisfaction** rating
-
-**💡 Project Highlights:**
-- E-commerce platforms with advanced analytics
-- Real-time collaboration tools for remote teams
-- Progressive Web Apps with offline capabilities
-- Custom CMS solutions with headless architecture
+**🎓 Learning Focus Areas:**
+- Modern JavaScript frameworks (React, Next.js, Vue)
+- Backend development (.NET, Node.js, Python)
+- Database design and management
+- Cloud services and deployment
+- UI/UX design principles
+- Software engineering best practices
 
 </td>
 </tr>
 </table>
 
-### 🎯 Core Competencies & Skill Matrix
+### 🎯 Core Competencies & Skill Development
 
 <details>
-<summary><b>🎨 Frontend Development Expertise</b></summary>
+<summary><b>🎨 Frontend Development Skills</b></summary>
 
-| Skill Category | Technologies | Proficiency | Years |
-|----------------|--------------|-------------|-------|
-| **JavaScript Frameworks** | React, Next.js, Vue.js, Angular | ⭐⭐⭐⭐⭐ | 3+ |
-| **TypeScript** | Advanced Types, Generics, Decorators | ⭐⭐⭐⭐⭐ | 3+ |
-| **State Management** | Redux, Zustand, Context API, MobX | ⭐⭐⭐⭐⭐ | 3+ |
-| **Styling Solutions** | Tailwind CSS, Styled Components, Sass | ⭐⭐⭐⭐⭐ | 3+ |
-| **Build Tools** | Webpack, Vite, Rollup, Parcel | ⭐⭐⭐⭐ | 2+ |
-| **Testing** | Jest, Cypress, Testing Library, Playwright | ⭐⭐⭐⭐ | 2+ |
+| Skill Category | Technologies | Learning Level | Experience |
+|----------------|--------------|----------------|------------|
+| **JavaScript Frameworks** | React, Next.js, Vue.js | ⭐⭐⭐⭐⭐ | 2+ years |
+| **TypeScript** | Advanced Types, Interfaces | ⭐⭐⭐⭐ | 1+ years |
+| **State Management** | Redux, Context API, Zustand | ⭐⭐⭐⭐ | 1+ years |
+| **Styling Solutions** | Tailwind CSS, CSS3, Sass | ⭐⭐⭐⭐⭐ | 2+ years |
+| **Build Tools** | Vite, Webpack, Parcel | ⭐⭐⭐ | 1+ years |
+| **Testing** | Jest, React Testing Library | ⭐⭐⭐ | Learning |
 
 </details>
 
 <details>
-<summary><b>⚙️ Backend Development Mastery</b></summary>
+<summary><b>⚙️ Backend Development Skills</b></summary>
 
-| Skill Category | Technologies | Proficiency | Years |
-|----------------|--------------|-------------|-------|
-| **Server Frameworks** | Node.js, Express, NestJS, .NET Core | ⭐⭐⭐⭐⭐ | 3+ |
-| **Database Design** | PostgreSQL, MongoDB, Redis, MySQL | ⭐⭐⭐⭐⭐ | 3+ |
-| **API Development** | REST, GraphQL, gRPC, WebSocket | ⭐⭐⭐⭐⭐ | 3+ |
-| **Authentication** | JWT, OAuth2, SAML, Auth0 | ⭐⭐⭐⭐⭐ | 3+ |
-| **Caching & Performance** | Redis, Memcached, CDN optimization | ⭐⭐⭐⭐ | 2+ |
-| **Message Queues** | RabbitMQ, Apache Kafka, AWS SQS | ⭐⭐⭐⭐ | 2+ |
+| Skill Category | Technologies | Learning Level | Experience |
+|----------------|--------------|----------------|------------|
+| **Server Frameworks** | Node.js, Express, .NET Core | ⭐⭐⭐⭐ | 2+ years |
+| **Database Design** | PostgreSQL, MongoDB, MySQL | ⭐⭐⭐⭐ | 1+ years |
+| **API Development** | REST, GraphQL | ⭐⭐⭐⭐ | 1+ years |
+| **Authentication** | JWT, OAuth2 | ⭐⭐⭐⭐ | 1+ years |
+| **Caching** | Redis, In-memory caching | ⭐⭐⭐ | Learning |
 
 </details>
 
 <details>
-<summary><b>☁️ Cloud & DevOps Excellence</b></summary>
+<summary><b>☁️ Cloud & DevOps Learning</b></summary>
 
-| Skill Category | Technologies | Proficiency | Years |
-|----------------|--------------|-------------|-------|
-| **Cloud Platforms** | AWS, Azure, Google Cloud Platform | ⭐⭐⭐⭐⭐ | 3+ |
-| **Containerization** | Docker, Kubernetes, Docker Compose | ⭐⭐⭐⭐⭐ | 2+ |
-| **CI/CD Pipelines** | GitHub Actions, GitLab CI, Jenkins | ⭐⭐⭐⭐⭐ | 2+ |
-| **Infrastructure as Code** | Terraform, CloudFormation, Ansible | ⭐⭐⭐⭐ | 2+ |
-| **Monitoring & Logging** | Prometheus, Grafana, ELK Stack | ⭐⭐⭐⭐ | 2+ |
-| **Security** | OWASP, Penetration Testing, Compliance | ⭐⭐⭐⭐ | 2+ |
+| Skill Category | Technologies | Learning Level | Experience |
+|----------------|--------------|----------------|------------|
+| **Cloud Platforms** | AWS, Netlify, Vercel | ⭐⭐⭐ | 1+ years |
+| **Containerization** | Docker | ⭐⭐⭐ | Learning |
+| **Version Control** | Git, GitHub | ⭐⭐⭐⭐⭐ | 2+ years |
+| **Deployment** | CI/CD, GitHub Actions | ⭐⭐⭐ | Learning |
 
 </details>
 
@@ -515,7 +498,7 @@ Current Streak: 45 days | Longest Streak: 127 days
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284175-f47e8681-8df5-4fdd-a5d7-cc44b7425968.gif" width="30"> 🌐 Connect & Collaborate
+## <img src="/images/Collaboration.jpg" width="30"> 🌐 Connect & Collaborate
 
 <div align="center">
 
@@ -525,7 +508,6 @@ Current Streak: 45 days | Longest Streak: 127 days
 <a href="https://linkedin.com/in/binitehakele"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" /></a>
 <a href="https://github.com/binadev29"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub" /></a>
 <a href="https://x.com/BTehakele16435"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter" /></a>
-<a href="https://leetcode.com/binadev29"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" alt="LeetCode" /></a>
 <a href="mailto:biniyamtehakele9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" /></a>
 <a href="https://biniyamtehakeleportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&labelColor=FF5722" alt="Portfolio" /></a>
 </p>
@@ -537,21 +519,19 @@ Current Streak: 45 days | Longest Streak: 127 days
 <a href="#"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
 </p>
 
-### 💼 Professional Services & Availability
+### 💼 Looking For Opportunities
 
 <table>
 <tr>
 <td align="center" width="25%">
 
-**🚀 Available For**  
-Full-time Positions  
-Freelance Projects  
-Technical Consulting  
-Code Reviews  
+**🚀 Interested In**  
+Entry-level Positions  
+Internship Programs  
+Open Source Projects  
+Learning Opportunities  
 
 </td>
 <td align="center" width="25%">
@@ -560,43 +540,29 @@ Code Reviews
 Remote (Preferred)  
 Hybrid Arrangements  
 On-site (Addis Ababa)  
-International Projects  
+International Remote  
 
 </td>
 <td align="center" width="25%">
 
 **⏰ Response Time**  
-Email: < 12 hours  
-LinkedIn: < 6 hours  
-Project Inquiries: < 24h  
-Emergency: < 2 hours  
+Email: < 24 hours  
+LinkedIn: < 12 hours  
+Project Inquiries: < 48h  
+Quick Questions: < 6 hours  
 
 </td>
 <td align="center" width="25%">
 
 **💡 Collaboration**  
 Open Source Projects  
-Tech Mentoring  
-Speaking Engagements  
-Workshop Facilitation  
+Learning Groups  
+Code Reviews  
+Pair Programming  
 
 </td>
 </tr>
 </table>
-
-### 📊 Availability Calendar
-
-```
-🟢 Available  🟡 Limited  🔴 Busy  ⚪ Offline
-
-Week 1: 🟢🟢🟢🟢🟢🟡⚪
-Week 2: 🟢🟢🟢🟢🟢🟡⚪
-Week 3: 🟢🟢🟡🔴🔴🟡⚪
-Week 4: 🟢🟢🟢🟢🟢🟡⚪
-
-Best Contact Hours: 9 AM - 6 PM (GMT+3)
-Weekend Availability: Limited (Personal Projects)
-```
 
 </div>
 
@@ -608,69 +574,69 @@ Weekend Availability: Limited (Personal Projects)
 
 ### 🎭 The Human Behind the Code
 
-<img align="right" alt="Coding Lifestyle" width="350" src="/images/PersonalBrand.jpg">
+<img align="right" alt="Coding Lifestyle" width="350" src="/images/photo1762413742.jpg">
 
 ```javascript
 class BiniyamPersonality {
   constructor() {
     this.languages = {
       spoken: ["Amharic (Native)", "English (Fluent)", "Oromo (Conversational)"],
-      programming: ["JavaScript", "TypeScript", "C#", "Python", "Go", "Rust"],
-      learning: ["Mandarin", "French", "Kotlin"]
+      programming: ["JavaScript", "TypeScript", "Python", "C#", "Java", "HTML", "CSS", "SQL"],
+      learning: ["Go", "Rust", "Kotlin"]
     };
     
     this.lifestyle = {
       fuelledBy: "Premium Ethiopian coffee ☕ and endless curiosity 🧠",
-      workingHours: "Early bird 🌅 (5 AM - 10 PM GMT+3)",
-      codingEnvironment: "Dark theme always 🌙, multiple monitors 🖥️",
-      musicPreference: ["Lo-fi Hip Hop", "Jazz Fusion", "Ethiopian Traditional", "Synthwave"]
+      workingHours: "Flexible learner 🌅 (Adapts to project needs)",
+      codingEnvironment: "Dark theme always 🌙, clean setup 🖥️",
+      musicPreference: ["Lo-fi Hip Hop", "Jazz", "Ethiopian Traditional", "Ambient"]
     };
     
     this.hobbies = [
-      "♟️ Chess Strategy (1800+ rating)",
-      "📚 Reading Tech Blogs & Research Papers", 
+      "📚 Reading Tech Blogs & Documentation", 
       "🌱 Contributing to Open Source Projects",
       "📸 Photography (Street & Landscape)",
       "🏃‍♂️ Running & Fitness",
-      "🎮 Indie Game Development"
+      "🎮 Playing Strategy Games",
+      "🎵 Listening to Music while Coding"
     ];
     
-    this.currentReads = [
-      "📖 'Designing Data-Intensive Applications' by Martin Kleppmann",
-      "📖 'Clean Architecture' by Robert C. Martin",
+    this.currentLearning = [
+      "📖 'Clean Code' by Robert C. Martin",
+      "📖 'JavaScript: The Good Parts' by Douglas Crockford",
       "📖 'System Design Interview' by Alex Xu",
-      "📖 'The Pragmatic Programmer' by Andy Hunt"
+      "📖 Online courses and tutorials"
     ];
     
     this.learning2024 = [
-      "🤖 Advanced Machine Learning & AI Integration",
-      "🔗 Blockchain Development & Web3 Technologies", 
-      "🏗️ Advanced System Design & Architecture Patterns",
-      "⚡ Rust Programming for System Performance",
-      "🧠 Cognitive Science for Better UX Design"
+      "🤖 Advanced AI Integration in Web Apps",
+      "🔗 Blockchain and Web3 Technologies", 
+      "🏗️ System Design & Architecture Patterns",
+      "⚡ Performance Optimization Techniques",
+      "🧠 Advanced Algorithms and Data Structures"
     ];
     
     this.goals2024 = [
-      "🎯 Launch 3 profitable SaaS products",
-      "🎤 Speak at 2+ international tech conferences",
-      "📝 Publish 50+ technical articles",
-      "🌍 Mentor 100+ developers globally",
-      "🏆 Contribute to 5+ major open source projects",
-      "🎓 Complete AWS Solutions Architect certification"
+      "🎯 Land first developer job or internship",
+      "🚀 Launch personal SaaS project",
+      "📝 Write technical blog posts",
+      "🌍 Connect with developer community",
+      "🏆 Contribute to major open source projects",
+      "🎓 Complete advanced certifications"
     ];
   }
   
   getMotivation() {
-    return "Innovation through code, impact through technology! 🚀✨";
+    return "Learning through code, growing through challenges! 🚀✨";
   }
   
   getPhilosophy() {
     return {
       code: "Write code that tells a story 📖",
       design: "Simplicity is the ultimate sophistication 🎨", 
-      teamwork: "Lift others as you climb 🤝",
-      learning: "Stay curious, stay humble 🌱",
-      impact: "Technology should serve humanity 🌍"
+      learning: "Every bug is a learning opportunity 🐛➡️💡",
+      growth: "Stay curious, stay humble 🌱",
+      impact: "Technology should make life better 🌍"
     };
   }
 }
@@ -681,59 +647,50 @@ console.log(biniyam.getMotivation());
 
 <br clear="right"/>
 
-### 🇪🇹 Proudly Ethiopian - Global Impact
+### 🇪🇹 Proudly Ethiopian - Global Aspirations
 
-<img src="/images/Portfolio.jpg" width="400">
+<img src="/images/photo1762413741.jpg" width="400">
 
-**🌍 Representing Ethiopian Tech Excellence on the Global Stage**
+**🌍 Representing Ethiopian Tech Talent on the Global Stage**
 
-*Building bridges between African innovation and international opportunities*
+*Building skills through code, connecting cultures through technology*
 
-### 🎯 2024 Achievements Tracker
+### 🎯 2024 Learning & Growth Tracker
 
 <table>
 <tr>
 <td align="center" width="20%">
 
-**🚀 Projects Launched**  
-![Progress](https://progress-bar.dev/75/?title=3/4&width=120&color=babaca&suffix=%20SaaS)
+**🚀 Projects Built**  
+![Progress](https://progress-bar.dev/80/?title=20/25&width=120&color=babaca&suffix=%20Projects)
 
 </td>
 <td align="center" width="20%">
 
-**📝 Articles Published**  
-![Progress](https://progress-bar.dev/60/?title=30/50&width=120&color=babaca&suffix=%20Articles)
+**📚 Courses Completed**  
+![Progress](https://progress-bar.dev/70/?title=14/20&width=120&color=babaca&suffix=%20Courses)
 
 </td>
 <td align="center" width="20%">
 
-**👥 Developers Mentored**  
-![Progress](https://progress-bar.dev/80/?title=80/100&width=120&color=babaca&suffix=%20Devs)
+**💻 Technologies Learned**  
+![Progress](https://progress-bar.dev/90/?title=18/20&width=120&color=babaca&suffix=%20Techs)
 
 </td>
 <td align="center" width="20%">
 
-**🎤 Conference Talks**  
-![Progress](https://progress-bar.dev/50/?title=1/2&width=120&color=babaca&suffix=%20Talks)
+**📝 Blog Posts**  
+![Progress](https://progress-bar.dev/30/?title=3/10&width=120&color=babaca&suffix=%20Posts)
 
 </td>
 <td align="center" width="20%">
 
-**🌟 OSS Contributions**  
-![Progress](https://progress-bar.dev/40/?title=2/5&width=120&color=babaca&suffix=%20Projects)
+**🌟 Open Source**  
+![Progress](https://progress-bar.dev/60/?title=6/10&width=120&color=babaca&suffix=%20Contributions)
 
 </td>
 </tr>
 </table>
-
-### 🏆 Recognition & Awards
-
-<p align="center">
-<img src="https://img.shields.io/badge/🏆_Developer_of_the_Year-2023-gold?style=for-the-badge" alt="Award 1" />
-<img src="https://img.shields.io/badge/🌟_Top_Contributor-Open_Source-blue?style=for-the-badge" alt="Award 2" />
-<img src="https://img.shields.io/badge/🎯_Innovation_Award-Tech_Excellence-green?style=for-the-badge" alt="Award 3" />
-<img src="https://img.shields.io/badge/👑_Community_Leader-Mentorship-purple?style=for-the-badge" alt="Award 4" />
-</p>
 
 </div>
 
@@ -751,28 +708,28 @@ console.log(biniyam.getMotivation());
 
 **👀 Profile Analytics**  
 ![Profile Views](https://komarev.com/ghpvc/?username=binadev29&label=Views&color=blueviolet&style=for-the-badge)  
-![Unique Visitors](https://img.shields.io/badge/Unique_Visitors-2.5K+-brightgreen?style=for-the-badge)  
+![Unique Visitors](https://img.shields.io/badge/Learning_Since-2022-brightgreen?style=for-the-badge)  
 
 </td>
 <td align="center" width="25%">
 
 **👥 Community Stats**  
 ![Followers](https://img.shields.io/github/followers/binadev29?label=Followers&style=for-the-badge&color=blue)  
-![Following](https://img.shields.io/badge/Following-150+-orange?style=for-the-badge)  
+![Following](https://img.shields.io/badge/Following-50+-orange?style=for-the-badge)  
 
 </td>
 <td align="center" width="25%">
 
 **⭐ Repository Stats**  
 ![Stars](https://img.shields.io/github/stars/binadev29?label=Total%20Stars&style=for-the-badge&color=yellow)  
-![Repos](https://img.shields.io/badge/Public_Repos-35+-green?style=for-the-badge)  
+![Repos](https://img.shields.io/badge/Public_Repos-25+-green?style=for-the-badge)  
 
 </td>
 <td align="center" width="25%">
 
 **🔥 Activity Level**  
-![Commits](https://img.shields.io/badge/This_Month-150+_commits-red?style=for-the-badge)  
-![Streak](https://img.shields.io/badge/Current_Streak-45_days-purple?style=for-the-badge)  
+![Commits](https://img.shields.io/badge/This_Month-100+_commits-red?style=for-the-badge)  
+![Streak](https://img.shields.io/badge/Learning_Streak-Active-purple?style=for-the-badge)  
 
 </td>
 </tr>
@@ -780,28 +737,28 @@ console.log(biniyam.getMotivation());
 
 ### 🔄 Recent Activity Feed
 
-- 🚀 **Just Now:** Pushed new AI features to TaskFlow Pro
-- 🐛 **2 hours ago:** Fixed critical performance bug in EcoMart platform  
-- 📝 **5 hours ago:** Updated comprehensive documentation for SecureAuth API
-- 🎨 **1 day ago:** Redesigned PortfolioCraft dashboard with modern UI/UX
-- 🔧 **2 days ago:** Optimized database queries - 40% performance improvement
-- 🌟 **3 days ago:** Merged PR #127 - Added dark mode support
-- 📊 **4 days ago:** Published article: "Advanced React Patterns 2024"
-- 🤝 **5 days ago:** Mentored 3 junior developers in system design
+- 🚀 **Just Now:** Updated portfolio website with new projects
+- 🐛 **2 hours ago:** Fixed responsive design issues in e-commerce project  
+- 📝 **5 hours ago:** Added comprehensive documentation to TaskFlow app
+- 🎨 **1 day ago:** Improved UI/UX design for authentication system
+- 🔧 **2 days ago:** Optimized database queries for better performance
+- 🌟 **3 days ago:** Implemented new features in React dashboard
+- 📊 **4 days ago:** Completed tutorial on advanced TypeScript patterns
+- 🤝 **5 days ago:** Participated in open source project discussions
 
 ### 📅 Weekly Coding Activity
 
 ```text
-Week: 04 November - 10 November 2024
+Week: November 2024
 
-TypeScript   12 hrs 30 mins  ████████████░░░░░░░░░░░░░   45.2%
-JavaScript   8 hrs 15 mins   ███████░░░░░░░░░░░░░░░░░░   29.8%
-C#           4 hrs 20 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.7%
-Python       1 hr 45 mins    █░░░░░░░░░░░░░░░░░░░░░░░░    6.3%
-CSS          52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░    3.0%
+JavaScript   15 hrs 30 mins  ████████████████░░░░░░░░   50.2%
+TypeScript   8 hrs 45 mins   ███████████░░░░░░░░░░░░░   28.3%
+Python       3 hrs 20 mins   ████░░░░░░░░░░░░░░░░░░░░   10.8%
+CSS          2 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░░░░    7.3%
+HTML         1 hr 05 mins    █░░░░░░░░░░░░░░░░░░░░░░░░    3.4%
 
-🔥 Most productive day: Thursday (4 hrs 30 mins)
-⚡ Average daily coding: 3 hrs 45 mins
+🔥 Most productive day: Wednesday (6 hrs 30 mins)
+⚡ Average daily coding: 4 hrs 30 mins
 ```
 
 ### 🎯 Current Focus Areas
@@ -811,22 +768,22 @@ CSS          52 mins         █░░░░░░░░░░░░░░░░
 <td align="center" width="33%">
 
 **🤖 AI Integration**  
-![Progress](https://progress-bar.dev/85/?title=Advanced&width=150&color=babaca)  
-*Implementing GPT-4 in TaskFlow Pro*
+![Progress](https://progress-bar.dev/70/?title=Learning&width=150&color=babaca)  
+*Building AI-powered applications*
 
 </td>
 <td align="center" width="33%">
 
-**☁️ Cloud Architecture**  
-![Progress](https://progress-bar.dev/70/?title=Scaling&width=150&color=babaca)  
-*Migrating to Kubernetes clusters*
+**☁️ Cloud Deployment**  
+![Progress](https://progress-bar.dev/60/?title=Practicing&width=150&color=babaca)  
+*Learning AWS and cloud services*
 
 </td>
 <td align="center" width="33%">
 
-**🔐 Security Enhancement**  
-![Progress](https://progress-bar.dev/90/?title=Enterprise&width=150&color=babaca)  
-*Zero-trust architecture implementation*
+**🔐 Security Best Practices**  
+![Progress](https://progress-bar.dev/80/?title=Implementing&width=150&color=babaca)  
+*Secure coding and authentication*
 
 </td>
 </tr>
@@ -840,74 +797,80 @@ CSS          52 mins         █░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-## 🚀 2024-2025 Vision & Roadmap
+## 🚀 2024-2025 Learning & Career Roadmap
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 🎯 **Q4 2024 Goals**
+#### 🎯 **Short-term Goals (Next 6 Months)**
 
-**🚀 Product Launches:**
-- [ ] TaskFlow AI Pro v2.0 (December 2024)
-- [ ] EcoMart Enterprise Edition (November 2024)
-- [ ] Developer Tools Suite (December 2024)
+**🚀 Skill Development:**
+- [ ] Master Advanced React Patterns
+- [ ] Learn System Design Fundamentals
+- [ ] Complete AWS Cloud Practitioner Certification
+- [ ] Build 5 More Full-Stack Projects
 
-**📚 Learning & Certification:**
-- [ ] AWS Solutions Architect Professional
-- [ ] Google Cloud Professional Developer
-- [ ] Kubernetes Certified Application Developer
+**📚 Learning Objectives:**
+- [ ] Advanced JavaScript & TypeScript
+- [ ] Database Design & Optimization
+- [ ] Testing & Quality Assurance
+- [ ] DevOps & CI/CD Pipelines
 
-**🌍 Community Impact:**
-- [ ] Mentor 25 more developers
-- [ ] Publish 15 technical articles
-- [ ] Speak at 1 international conference
+**🌍 Career Goals:**
+- [ ] Apply for Junior Developer Positions
+- [ ] Complete Technical Interview Preparation
+- [ ] Build Professional Network
+- [ ] Contribute to Open Source Projects
 
 </td>
 <td width="50%" valign="top">
 
-#### 🌟 **2025 Vision**
+#### 🌟 **Long-term Vision (1-2 Years)**
 
-**💼 Professional Growth:**
-- [ ] Launch personal SaaS company
-- [ ] Build team of 10+ developers
-- [ ] Establish Ethiopian tech hub
+**💼 Career Aspirations:**
+- [ ] Secure Full-Stack Developer Role
+- [ ] Contribute to Large-Scale Applications
+- [ ] Mentor Other Aspiring Developers
+- [ ] Build Personal SaaS Product
 
-**🔬 Innovation Projects:**
-- [ ] AI-powered code review platform
-- [ ] Blockchain-based developer portfolio
-- [ ] AR/VR web development tools
+**🔬 Technical Growth:**
+- [ ] Master Cloud Architecture
+- [ ] Learn Mobile App Development
+- [ ] Explore Machine Learning Integration
+- [ ] Understand Microservices Architecture
 
-**🌍 Global Impact:**
-- [ ] Open source framework adoption: 10K+ stars
-- [ ] International speaking tour: 5+ countries
-- [ ] Developer bootcamp in Ethiopia
+**🌍 Impact Goals:**
+- [ ] Launch Successful Tech Product
+- [ ] Speak at Local Tech Meetups
+- [ ] Help Build Ethiopian Tech Community
+- [ ] Create Educational Content
 
 </td>
 </tr>
 </table>
 
-### 🎪 Fun Challenges & Side Projects
+### 🎪 Current Learning Challenges
 
 <details>
-<summary><b>🎮 Coding Challenges I'm Working On</b></summary>
+<summary><b>🎮 Coding Challenges & Practice</b></summary>
 
-- 🧩 **Daily LeetCode:** Maintaining 100+ day streak
-- 🏆 **Advent of Code 2024:** Competing for leaderboard position  
-- 🎯 **30-Day React Challenge:** Building 30 components in 30 days
-- 🚀 **Weekend Hack Projects:** Mini-apps every weekend
-- 🤖 **AI Integration Challenge:** Adding AI to existing projects
+- 🧩 **Algorithm Practice:** Solving problems daily on various platforms
+- 🏆 **Project Challenges:** Building increasingly complex applications
+- 🎯 **30-Day Challenges:** Learning new technologies monthly
+- 🚀 **Weekend Projects:** Experimenting with new ideas
+- 🤖 **AI Integration:** Adding intelligent features to projects
 
 </details>
 
 <details>
-<summary><b>🌱 Learning & Experimentation</b></summary>
+<summary><b>🌱 Continuous Learning Path</b></summary>
 
-- 🦀 **Rust Programming:** Building CLI tools and web servers
-- 🔗 **Web3 Development:** Smart contracts and DApps
-- 🧠 **Machine Learning:** TensorFlow and PyTorch projects
-- 🎨 **Creative Coding:** Generative art with p5.js
-- 📱 **Mobile Development:** React Native and Flutter apps
+- 🦀 **Advanced Technologies:** Exploring Rust, Go, and modern frameworks
+- 🔗 **Web3 & Blockchain:** Understanding decentralized applications
+- 🧠 **Machine Learning:** Integrating AI into web applications
+- 🎨 **Design Systems:** Creating consistent and beautiful UIs
+- 📱 **Mobile Development:** React Native and Flutter exploration
 
 </details>
 
@@ -919,21 +882,21 @@ CSS          52 mins         █░░░░░░░░░░░░░░░░
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Ready to Create Digital Magic Together?
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Ready to Create Digital Solutions Together?
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400">
 
-*"In the symphony of code, every function is a note, every algorithm is a melody, and every application is a masterpiece waiting to be composed."*
+*"Every line of code is a step towards mastery, every project is a lesson in problem-solving, and every challenge is an opportunity to grow."*
 
-### 🌟 Let's Turn Your Vision Into Reality!
+### 🌟 Let's Build Something Amazing!
 
-Whether you're a startup with a groundbreaking idea, an enterprise seeking digital transformation, or a fellow developer looking to collaborate on something extraordinary - I'm here to help bring your vision to life with cutting-edge technology and passionate craftsmanship.
+Whether you're looking for a passionate junior developer, need help with a project, or want to collaborate on something innovative - I'm excited to contribute my skills and enthusiasm to create meaningful digital solutions.
 
-**🚀 Ready to start your next project?**  
-**💬 Have a question about technology?**  
-**🤝 Want to collaborate on open source?**  
+**🚀 Ready to start a project together?**  
+**💬 Have a question about my work?**  
+**🤝 Want to collaborate or mentor?**  
 
-**Don't hesitate to reach out - great things happen when passionate minds connect!**
+**Let's connect and build the future together!**
 
 ---
 
@@ -951,11 +914,11 @@ Whether you're a startup with a groundbreaking idea, an enterprise seeking digit
 
 ---
 
-**⚡ Fun Fact:** *This README was crafted with the same attention to detail and passion that I bring to every project. Every animation, every section, and every line of code reflects my commitment to excellence!*
+**⚡ Fun Fact:** *This README represents my journey from zero to developer - every section reflects real learning, genuine passion, and the excitement of building something new every day!*
 
-**🇪🇹 Made with ❤️, countless hours of coding, premium Ethiopian coffee ☕, and the dream of connecting Ethiopian innovation with global opportunities.**
+**🇪🇹 Made with ❤️, countless hours of learning, premium Ethiopian coffee ☕, and the dream of contributing to the global tech community from Ethiopia.**
 
-*"Bridging cultures through code, building futures through technology, one commit at a time."*
+*"Learning through code, growing through challenges, building the future one commit at a time."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
