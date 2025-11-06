@@ -428,7 +428,7 @@ const personalStats = {
 **🎯 Learning Journey:**
 - 🚀 Started coding journey in **2022**
 - 📚 Self-taught through online resources and documentation
-- 💻 Built **25+ personal projects** to practice skills
+- 💻 Built **25+ personal Private projects** to practice skills
 - 🌱 Continuously learning new technologies and frameworks
 - 🔧 Focused on **full-stack development** with modern tools
 - 📊 Gained experience in **frontend, backend, and databases**
@@ -715,14 +715,14 @@ console.log(biniyam.getMotivation());
 
 **👥 Community Stats**  
 ![Followers](https://img.shields.io/github/followers/binadev29?label=Followers&style=for-the-badge&color=blue)  
-![Following](https://img.shields.io/badge/Following-50+-orange?style=for-the-badge)  
+![Following](https://img.shields.io/badge/Following-12+-orange?style=for-the-badge)  
 
 </td>
 <td align="center" width="25%">
 
 **⭐ Repository Stats**  
 ![Stars](https://img.shields.io/github/stars/binadev29?label=Total%20Stars&style=for-the-badge&color=yellow)  
-![Repos](https://img.shields.io/badge/Public_Repos-25+-green?style=for-the-badge)  
+![Repos](https://img.shields.io/badge/Private_Repos-36+-green?style=for-the-badge)  
 
 </td>
 <td align="center" width="25%">
