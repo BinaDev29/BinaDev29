@@ -44,7 +44,7 @@ const biniyamTehakele: Developer = {
   name: "Biniyam Tehakele",
   role: "Full-Stack Developer & Tech Innovator",
   location: "Addis Ababa, Ethiopia 🇪🇹",
-  experience: "2+ Years of Coding Journey (Started 2022)",
+  experience: "3+ Years of Coding Journey (Started 2022)",
   
   specialties: [
     "🚀 Modern Web Applications (React, Next.js, Vue)",
