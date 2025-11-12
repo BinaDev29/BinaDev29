@@ -4,7 +4,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Welcome to My Digital Universe! 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full-Stack+Developer+%7C+Tech+Innovator;React+%26+Next.js+Expert+%7C+.NET+Specialist;AI+Enthusiast+%7C+Cloud+Architect;Building+the+Future%2C+One+Line+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full-Stack+Developer+%7C+Video+Editor;Tech+Innovator;React+%26+Next.js+Expert+%7C+.NET+Specialist;AI+Enthusiast+%7C+Cloud+Architect;Building+the+Future%2C+One+Line+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
