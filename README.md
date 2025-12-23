@@ -1,118 +1,120 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Biniyam%20Tehakele&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35" alt="Header" />
+<!-- Header Section -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Biniyam%20Tehakele&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35" alt="Banner" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%26+.NET+Specialist;Building+Digital+Solutions;3%2B+Years+of+Coding+Journey;Ethiopian+Tech+Innovator;Open+Source+Contributor" alt="Typing SVG" />
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=1000&color=4CC9F0&center=true&vCenter=true&width=600&lines=Full-Stack+Architect;React+%26+.NET+Expert;Crafting+Digital+Experiences;3%2B+Years+of+Innovation;Open+Source+Advocate" alt="Typing SVG" />
 
+<!-- Profile Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=binadev29&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/binadev29?label=Followers&style=flat-square&color=blue&logo=github" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack-brightgreen?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Location-Ethiopia%20🇪🇹-red?style=flat-square" alt="Location" />
-  <img src="https://img.shields.io/badge/Available-For%20Hire-success?style=flat-square&logo=handshake" alt="Available for Hire" />
+  <img src="https://komarev.com/ghpvc/?username=binadev29&label=PROFILE%20VIEWS&color=4361EE&style=for-the-badge" alt="Views" />
+  <img src="https://img.shields.io/github/followers/binadev29?label=FOLLOWERS&style=for-the-badge&color=7209B7&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/badge/STATUS-AVAILABLE-success?style=for-the-badge&logo=handshake" alt="Available" />
+  <img src="https://img.shields.io/badge/LOCATION-ETHIOPIA%20🇪🇹-E63946?style=for-the-badge" alt="Location" />
 </p>
 
-<h3>🌟 Welcome to my digital universe! 🌟</h3>
-
-</div>
+<h3>🌌 Welcome to My Interactive Universe 🌌</h3>
 
 ---
 
-## 👨‍💻 About Me
+</div>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+## 👨‍🔬 The Architect's Profile
+
+<div align="center">
+<table>
+<tr>
+<td width="55%" valign="top">
 
 ```typescript
-interface Developer {
-  name: string;
-  location: string;
-  role: string;
-  experience: string;
-  techStack: TechStack;
-  currentFocus: string;
-  availableFor: string;
-  passion: string[];
-}
-
-const biniyam: Developer = {
-  name: "Biniyam Tehakele",
-  location: "Addis Ababa, Ethiopia 🇪🇹",
-  role: "Full-Stack Developer",
-  experience: "3+ Years (Since 2022)",
-  
-  techStack: {
-    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-    backend: [".NET Core", "Node.js", "Express"],
-    databases: ["PostgreSQL", "MongoDB", "Redis"],
-    tools: ["Git", "Docker", "AWS", "Vercel"],
-    currentlyLearning: ["GraphQL", "Microservices", "Kubernetes"]
-  },
-  
-  currentFocus: "Building scalable web applications with modern technologies",
-  availableFor: "Full-time opportunities and exciting projects",
-  passion: ["Clean Code", "Problem Solving", "Innovation", "Mentoring"]
+/**
+ * @profile Biniyam Tehakele
+ * @role Full-Stack Developer & Innovator
+ */
+const identity = {
+  origin: "Addis Ababa, Ethiopia 🇪🇹",
+  expertise: ["Distributed Systems", "Modern UI/UX", "Microservices"],
+  toolkit: ["React", ".NET Core", "TypeScript", "PostgreSQL"],
+  mission: "Building high-performance, scalable digital solutions.",
+  philosophy: [
+    "Clean Code", 
+    "User-Centric Design", 
+    "Continuous Evolution"
+  ],
+  currently_leveling: {
+    skill: "System Design",
+    focus: "Cloud-Native Architecture"
+  }
 };
 
-console.log("Ready to build amazing things together! 🚀");
+console.log(`Let's engineer the future! 🚀`);
 ```
 
-**🚀 Self-taught developer** passionate about creating efficient, user-friendly applications. Experienced in building **25+ projects** ranging from e-commerce platforms to management systems. Strong advocate for **clean code**, **best practices**, and **continuous learning**.
+**Self-taught & Passion-driven.** With over **25+ production-grade projects**, I specialize in bridging the gap between complex backend logic and seamless frontend experiences. I'm dedicated to writing code that isn't just functional, but a work of art.
 
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### 🎨 Frontend Technologies
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,sass,bootstrap,figma" />
-</p>
-
-### ⚙️ Backend & Database
-<p>
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,python,postgresql,mongodb,redis,mysql,firebase,supabase" />
-</p>
-
-### 🔧 Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,netlify,vscode,postman,linux,windows" />
-</p>
-
+</td>
+<td width="45%" align="center">
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
+</td>
+</tr>
+</table>
 </div>
 
 ---
 
-## 📈 GitHub Analytics
+## 🛠️ The Tech Arsenal
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=binadev29&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=f85d7f&icon_color=f8d866&text_color=a8b2d1"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binadev29&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0d1117&title_color=f85d7f&text_color=a8b2d1"/>
+### 🎨 Frontend Engineering
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,sass,bootstrap,figma,threejs" />
+</p>
 
-</div>
+### ⚙️ Backend & Systems
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,python,cs,go,graphql,solidity" />
+</p>
 
-<div align="center">
+### 💾 Data & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,firebase,supabase,aws,azure" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=binadev29&theme=radical&hide_border=true&background=0d1117&stroke=f85d7f&ring=f8d866&fire=f85d7f&currStreakNum=a8b2d1&sideNums=a8b2d1&currStreakLabel=f8d866&sideLabels=f8d866&dates=a8b2d1" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=binadev29&theme=tokyo-night&bg_color=0D1117&color=F85D7F&line=F8D866&point=A8B2D1&area=true&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=binadev29&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
+### 🔧 Tools & Workflow
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,linux,windows,vscode,postman,figma" />
+</p>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 📊 Analytics & Insights
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=binadev29&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=70d6ff&icon_color=ff79c6&text_color=a8b2d1&bg_color=1a1b26"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binadev29&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&title_color=70d6ff&text_color=a8b2d1&bg_color=1a1b26"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=binadev29&theme=tokyonight&hide_border=true&background=1a1b26&stroke=ff79c6&ring=70d6ff&fire=ff79c6&currStreakNum=a8b2d1&sideNums=a8b2d1&currStreakLabel=70d6ff&sideLabels=70d6ff&dates=a8b2d1" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=binadev29&theme=tokyo-night&bg_color=1a1b26&color=ff79c6&line=70d6ff&point=A8B2D1&area=true&hide_border=true" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=binadev29&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+
+</div>
+
+---
+
+## 🚀 Featured Engineering Works
 
 <div align="center">
 
@@ -120,106 +122,40 @@ console.log("Ready to build amazing things together! 🚀");
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 EcoMart E-commerce Platform
-<img src="https://via.placeholder.com/400x200/1a1a1a/36BCF7?text=EcoMart+E-commerce" alt="EcoMart Preview" width="100%"/>
+### 🛒 EcoMart: Next-Gen E-commerce
+<img src="https://i.imgur.com/rN5A4Q7.png" alt="EcoMart" width="100%" style="border-radius: 10px;"/>
 
-**Full-stack e-commerce solution with modern UI/UX**
+**High-performance shop with .NET Core & React.**
 
-**🛠️ Tech Stack:** React, .NET Core, PostgreSQL, Redis  
-
-**✨ Features:**
-- 🔍 Real-time product search & filtering
-- 💳 Secure payment integration (Stripe)
-- 📱 Fully responsive design
-- 🔐 JWT authentication & authorization
-- 📊 Comprehensive admin dashboard
-- 🛒 Shopping cart with session management
-- 📧 Email notifications
+**✨ Key Innovation:**
+- ⚡ **Redis Cache Layer** for sub-100ms response.
+- 💳 **Stripe 3D Secure** integration.
+- 📊 **Real-time Inventory** tracking via SignalR.
 
 <div align="center">
 
-[![Demo](https://img.shields.io/badge/🌐_Live_Demo-37a779?style=for-the-badge)](https://ecomart-demo.netlify.app)
-[![Code](https://img.shields.io/badge/📁_Source_Code-24292e?style=for-the-badge&logo=github)](https://github.com/binadev29/ecomart)
+[![Demo](https://img.shields.io/badge/LIVE_STAGING-4CC9F0?style=for-the-badge&logoColor=white)](https://ecomart-demo.netlify.app)
+[![Source](https://img.shields.io/badge/REPOSITORY-1a1b26?style=for-the-badge&logo=github)](https://github.com/binadev29/ecomart)
 
 </div>
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 TaskFlow Management System
-<img src="https://via.placeholder.com/400x200/1a1a1a/F85D7F?text=TaskFlow+Management" alt="TaskFlow Preview" width="100%"/>
+### 🤖 TaskFlow: Enterprise PM Tool
+<img src="https://i.imgur.com/uRjMZXD.png" alt="TaskFlow" width="100%" style="border-radius: 10px;"/>
 
-**Project management tool with team collaboration**
+**Collaborative workspace with real-time sync.**
 
-**🛠️ Tech Stack:** Next.js, TypeScript, MongoDB, Socket.io
-
-**✨ Features:**
-- 📋 Kanban-style task organization
-- 👥 Real-time team collaboration
-- 📈 Advanced progress analytics
-- ⚡ Live updates & notifications
-- 🎨 Intuitive drag-and-drop interface
-- 📊 Time tracking & reporting
-- 🔒 Role-based permissions
+**✨ Key Innovation:**
+- 👥 **Socket.io** for multi-user collaboration.
+- 📊 **Dynamic Analytics** with Chart.js.
+- 🎨 **Glassmorphism UI** using Tailwind.
 
 <div align="center">
 
-[![Demo](https://img.shields.io/badge/🌐_Live_Demo-37a779?style=for-the-badge)](https://taskflow-demo.vercel.app)
-[![Code](https://img.shields.io/badge/📁_Source_Code-24292e?style=for-the-badge&logo=github)](https://github.com/binadev29/taskflow)
-
-</div>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎨 Professional Portfolio
-<img src="https://via.placeholder.com/400x200/1a1a1a/F8D866?text=Portfolio+Website" alt="Portfolio Preview" width="100%"/>
-
-**Personal branding platform with stunning animations**
-
-**🛠️ Tech Stack:** React, Tailwind CSS, Framer Motion, Three.js
-
-**✨ Features:**
-- 🎭 Smooth page transitions & animations
-- 📱 Mobile-first responsive design
-- 🔍 SEO optimized with meta tags
-- ⚡ Lightning-fast performance
-- 📧 Contact form with email integration
-- 🌙 Dark/Light mode toggle
-- 🎯 Interactive 3D elements
-
-<div align="center">
-
-[![Demo](https://img.shields.io/badge/🌐_Live_Demo-37a779?style=for-the-badge)](https://biniyamtehakeleportfolio.netlify.app)
-[![Code](https://img.shields.io/badge/📁_Source_Code-24292e?style=for-the-badge&logo=github)](https://github.com/binadev29/portfolio)
-
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 SecureAuth API
-<img src="https://via.placeholder.com/400x200/1a1a1a/A8B2D1?text=Authentication+API" alt="Auth API Preview" width="100%"/>
-
-**Enterprise-grade authentication microservice**
-
-**🛠️ Tech Stack:** .NET Core, JWT, OAuth2, Redis, Docker
-
-**✨ Features:**
-- 🔒 Multi-factor authentication (MFA)
-- 🌐 Social login integration (Google, GitHub)
-- 👤 Role-based access control (RBAC)
-- 🔄 Refresh token rotation
-- 🛡️ Rate limiting & security headers
-- 📱 Mobile app support
-- 🔍 Audit logging & monitoring
-
-<div align="center">
-
-[![Demo](https://img.shields.io/badge/🌐_API_Docs-37a779?style=for-the-badge)](https://secureauth-api.herokuapp.com/swagger)
-[![Code](https://img.shields.io/badge/📁_Source_Code-24292e?style=for-the-badge&logo=github)](https://github.com/binadev29/secure-auth)
+[![Demo](https://img.shields.io/badge/LIVE_STAGING-F72585?style=for-the-badge&logoColor=white)](https://taskflow-demo.vercel.app)
+[![Source](https://img.shields.io/badge/REPOSITORY-1a1b26?style=for-the-badge&logo=github)](https://github.com/binadev29/taskflow)
 
 </div>
 
@@ -231,187 +167,67 @@ console.log("Ready to build amazing things together! 🚀");
 
 ---
 
-## 🎯 What I Bring to Your Team
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-coding-computer-programming-flaticons-flat-flat-icons.png" width="60"/>
-<h4>💻 Technical Excellence</h4>
-<p>Clean, maintainable code following SOLID principles and industry best practices</p>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-problem-solving-customer-feedback-flaticons-flat-flat-icons.png" width="60"/>
-<h4>🚀 Problem Solving</h4>
-<p>Analytical approach to complex challenges with creative and efficient solutions</p>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-growth-work-from-home-flaticons-flat-flat-icons.png" width="60"/>
-<h4>🌱 Growth Mindset</h4>
-<p>Continuous learning, adaptation, and staying current with emerging technologies</p>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-collaboration-remote-work-flaticons-flat-flat-icons.png" width="60"/>
-<h4>🤝 Collaboration</h4>
-<p>Strong communication skills and experience in cross-functional team environments</p>
-</td>
-</tr>
-</table>
-
-</div>
-
-### 🏆 Key Achievements & Highlights
-
-<div align="center">
-
-| 🚀 **Projects** | 📈 **Experience** | 🎯 **Learning** | 🌍 **Impact** | ☕ **Innovation** |
-|:---:|:---:|:---:|:---:|:---:|
-| 25+ Built | 3+ Years | Self-Taught | International Standards | Ethiopian Tech Scene |
-| E-commerce to SaaS | Since 2022 | Continuous Growth | Global Best Practices | Local Innovation |
-| Full-Stack Focus | Production Ready | Technology Agnostic | Quality Driven | Community Minded |
-
-</div>
-
----
-
-## 📚 Current Learning Journey
+## 🎯 Strategic Roadmap
 
 <div align="center">
 
 ```mermaid
-graph LR
-    A[Current Skills] --> B[Learning Now]
-    B --> C[Future Goals]
+graph TD
+    A[Core Mastery] --> B[Advanced Engineering]
+    B --> C[Visionary Leadership]
     
-    A --> A1[React/Next.js]
-    A --> A2[.NET Core]
-    A --> A3[PostgreSQL]
+    subgraph "Core: .NET / React"
+    A1[Clean Architecture]
+    A2[Domain Driven Design]
+    end
     
-    B --> B1[GraphQL]
-    B --> B2[Microservices]
-    B --> B3[Kubernetes]
-    B --> B4[AI/ML Integration]
+    subgraph "Learning: Cloud & AI"
+    B1[AWS Solutions Architect]
+    B2[AI-Powered Workflows]
+    B3[K8s Orchestration]
+    end
     
-    C --> C1[System Architecture]
-    C --> C2[DevOps Mastery]
-    C --> C3[Mobile Development]
+    subgraph "Impact: Open Source"
+    C1[Tech Mentorship]
+    C2[Global Scale Systems]
+    end
+    
+    A --> A1 & A2
+    B --> B1 & B2 & B3
+    C --> C1 & C2
 ```
 
 </div>
 
-### 🎯 2024 Learning Roadmap
-
-- 🏗️ **System Design & Architecture** - Scalable application design patterns
-- ☁️ **Cloud Native Development** - Advanced AWS services and deployment strategies  
-- 🤖 **AI/ML Integration** - Incorporating AI capabilities into web applications
-- 📱 **Mobile Development** - React Native for cross-platform mobile apps
-- 🔧 **DevOps & CI/CD** - Advanced deployment pipelines and infrastructure as code
-
 ---
 
-## 🎯 Current Status & Availability
+## 🤝 Let's Collaborate
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=🟢+Available+for+Full-Time+Opportunities;🌍+Open+to+Remote+%26+International+Roles;⚡+Ready+to+Start+Immediately" alt="Status" />
-
-</div>
-
-```javascript
-const currentStatus = {
-  🎯 lookingFor: "Full-time Full-Stack Developer position",
-  🔥 interests: [
-    "React/Next.js Ecosystem", 
-    ".NET Core Development", 
-    "Cloud Architecture", 
-    "AI/ML Integration",
-    "Open Source Contribution"
-  ],
-  ⚡ availability: "Immediately available",
-  🌍 workPreference: ["Remote", "Hybrid", "On-site (Addis Ababa)"],
-  💰 salaryRange: "Competitive & Negotiable",
-  
-  📚 currentlyLearning: [
-    "Advanced System Design",
-    "Kubernetes & Container Orchestration", 
-    "GraphQL & Apollo",
-    "React Native Development"
-  ],
-  
-  🎯 careerGoals: [
-    "Lead technical teams",
-    "Architect scalable systems",
-    "Mentor junior developers",
-    "Contribute to open source"
-  ]
-};
-```
-
----
-
-## 🤝 Let's Connect & Collaborate
-
-<div align="center">
-
-<h3>🌟 Ready to build something amazing together? 🌟</h3>
+<h3>🚀 Moving at the Speed of Thought? Let's connect.</h3>
 
 <p>
 <a href="mailto:biniyamtehakele9@gmail.com">
-<img src="https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://linkedin.com/in/binitehakele">
-<img src="https://img.shields.io/badge/LinkedIn_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://biniyamtehakeleportfolio.netlify.app">
-<img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://github.com/binadev29">
-<img src="https://img.shields.io/badge/GitHub_Follow-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/PORTFOLIO-FFB703?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
 </a>
 </p>
 
 <a href="https://calendly.com/biniyamtehakele">
-<img src="https://img.shields.io/badge/📅_Schedule_Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Schedule Meeting" />
+<img src="https://img.shields.io/badge/SCHEDULE_A_SESSION-4361EE?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Calendly" />
 </a>
 
-</div>
+<br/><br/>
 
-### 📍 Contact Information
-
-<div align="center">
-
-| 🌍 **Location** | ⏰ **Timezone** | 📧 **Email** | ⚡ **Response Time** |
-|:---:|:---:|:---:|:---:|
-| Addis Ababa, Ethiopia 🇪🇹 | EAT (UTC+3) | biniyamtehakele9@gmail.com | < 12 hours |
-
-</div>
-
-### 🎯 What I'm Looking For
-
-- 🚀 **Challenging Projects** - Complex problems that push my skills
-- 🌱 **Growth Opportunities** - Companies that invest in employee development  
-- 🤝 **Collaborative Culture** - Teams that value knowledge sharing
-- 🌍 **Global Impact** - Products that make a difference worldwide
-- 💡 **Innovation Focus** - Organizations embracing cutting-edge technologies
-
----
-
-## 💝 Support My Work
-
-<div align="center">
-
-If you find my projects helpful or interesting, consider:
-
-<p>
-<a href="https://github.com/binadev29">
-<img src="https://img.shields.io/badge/⭐_Star_My_Repos-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Star Repos" />
-</a>
-<a href="https://buymeacoffee.com/binadev29">
-<img src="https://img.shields.io/badge/☕_Buy_Me_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me Coffee" />
-</a>
-</p>
+| 🌍 Location | ⏰ Timezone | ⚡ Response |
+| :--- | :--- | :--- |
+| Addis Ababa, Ethiopia 🇪🇹 | EAT (UTC+3) | Within 12h |
 
 </div>
 
@@ -419,20 +235,16 @@ If you find my projects helpful or interesting, consider:
 
 <div align="center">
 
-### 🎵 Currently Vibing To
+### 🎵 In The Flow
 [![Spotify](https://novatorem-binadev29.vercel.app/api/spotify)](https://open.spotify.com/user/binadev29)
 
----
+### 💬 Wisdom of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 💭 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://github.com/binadev29/binadev29/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
 
----
+*"Engineering the digital renaissance from Ethiopia to the globe. 🌍"*
 
-<img src="https://github.com/binadev29/binadev29/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-*"Building the future through code, one commit at a time. From Ethiopia to the world 🌍"*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
