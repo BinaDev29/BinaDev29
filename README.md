@@ -95,20 +95,48 @@ console.log(`Let's engineer the future! 🚀`);
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=binadev29&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=70d6ff&icon_color=ff79c6&text_color=a8b2d1&bg_color=1a1b26"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binadev29&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&title_color=70d6ff&text_color=a8b2d1&bg_color=1a1b26"/>
+<!-- GitHub Stats Card -->
+<a href="https://github.com/binadev29">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=binadev29&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=70d6ff&icon_color=ff79c6&text_color=a8b2d1&bg_color=1a1b26&cache_seconds=1800" alt="GitHub Stats"/>
+</a>
+
+<!-- Top Languages Card -->
+<a href="https://github.com/binadev29">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binadev29&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=70d6ff&text_color=a8b2d1&bg_color=1a1b26&cache_seconds=1800&exclude_repo=binadev29" alt="Top Languages"/>
+</a>
+
+</div>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=binadev29&theme=tokyonight&hide_border=true&background=1a1b26&stroke=ff79c6&ring=70d6ff&fire=ff79c6&currStreakNum=a8b2d1&sideNums=a8b2d1&currStreakLabel=70d6ff&sideLabels=70d6ff&dates=a8b2d1" alt="GitHub Streak" />
+<div align="center">
+
+<!-- GitHub Streak Stats -->
+<a href="https://github.com/binadev29">
+  <img src="https://streak-stats.demolab.com?user=binadev29&theme=tokyonight&hide_border=true&background=1a1b26&stroke=ff79c6&ring=70d6ff&fire=ff79c6&currStreakNum=a8b2d1&sideNums=a8b2d1&currStreakLabel=70d6ff&sideLabels=70d6ff&dates=a8b2d1" alt="GitHub Streak" />
+</a>
+
+</div>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=binadev29&theme=tokyo-night&bg_color=1a1b26&color=ff79c6&line=70d6ff&point=A8B2D1&area=true&hide_border=true" />
+<div align="center">
+
+<!-- Activity Graph -->
+<a href="https://github.com/binadev29">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=binadev29&theme=tokyo-night&bg_color=1a1b26&color=ff79c6&line=70d6ff&point=a8b2d1&area=true&hide_border=true" alt="Contribution Graph" />
+</a>
+
+</div>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=binadev29&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+<div align="center">
+
+<!-- GitHub Trophies -->
+<a href="https://github.com/binadev29">
+  <img src="https://github-profile-trophy.vercel.app/?username=binadev29&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</a>
 
 </div>
 
@@ -123,7 +151,7 @@ console.log(`Let's engineer the future! 🚀`);
 <td width="50%" valign="top">
 
 ### 🛒 EcoMart: Next-Gen E-commerce
-<img src="https://i.imgur.com/rN5A4Q7.png" alt="EcoMart" width="100%" style="border-radius: 10px;"/>
+<img src="https://via.placeholder.com/600x400/1a1b26/70d6ff?text=EcoMart+E-commerce+Platform" alt="EcoMart" width="100%" style="border-radius: 10px;"/>
 
 **High-performance shop with .NET Core & React.**
 
@@ -134,8 +162,8 @@ console.log(`Let's engineer the future! 🚀`);
 
 <div align="center">
 
-[![Demo](https://img.shields.io/badge/LIVE_STAGING-4CC9F0?style=for-the-badge&logoColor=white)](https://ecomart-demo.netlify.app)
-[![Source](https://img.shields.io/badge/REPOSITORY-1a1b26?style=for-the-badge&logo=github)](https://github.com/binadev29/ecomart)
+[![Demo](https://img.shields.io/badge/LIVE_STAGING-4CC9F0?style=for-the-badge&logoColor=white)](https://github.com/binadev29)
+[![Source](https://img.shields.io/badge/REPOSITORY-1a1b26?style=for-the-badge&logo=github)](https://github.com/binadev29)
 
 </div>
 
@@ -143,7 +171,7 @@ console.log(`Let's engineer the future! 🚀`);
 <td width="50%" valign="top">
 
 ### 🤖 TaskFlow: Enterprise PM Tool
-<img src="https://i.imgur.com/uRjMZXD.png" alt="TaskFlow" width="100%" style="border-radius: 10px;"/>
+<img src="https://via.placeholder.com/600x400/1a1b26/ff79c6?text=TaskFlow+Project+Management" alt="TaskFlow" width="100%" style="border-radius: 10px;"/>
 
 **Collaborative workspace with real-time sync.**
 
@@ -154,8 +182,8 @@ console.log(`Let's engineer the future! 🚀`);
 
 <div align="center">
 
-[![Demo](https://img.shields.io/badge/LIVE_STAGING-F72585?style=for-the-badge&logoColor=white)](https://taskflow-demo.vercel.app)
-[![Source](https://img.shields.io/badge/REPOSITORY-1a1b26?style=for-the-badge&logo=github)](https://github.com/binadev29/taskflow)
+[![Demo](https://img.shields.io/badge/LIVE_STAGING-F72585?style=for-the-badge&logoColor=white)](https://github.com/binadev29)
+[![Source](https://img.shields.io/badge/REPOSITORY-1a1b26?style=for-the-badge&logo=github)](https://github.com/binadev29)
 
 </div>
 
@@ -235,13 +263,10 @@ graph TD
 
 <div align="center">
 
-### 🎵 In The Flow
-[![Spotify](https://novatorem-binadev29.vercel.app/api/spotify)](https://open.spotify.com/user/binadev29)
-
 ### 💬 Wisdom of the Day
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<img src="https://github.com/binadev29/binadev29/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
+<br/>
 
 *"Engineering the digital renaissance from Ethiopia to the globe. 🌍"*
 
