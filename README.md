@@ -1,20 +1,20 @@
 <div align="center">
 
-<!-- Header Section -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Biniyam%20Tehakele&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35" alt="Banner" />
+<!-- Header Section: Advanced Waving Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Biniyam%20Tehakele&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35" alt="Banner" />
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=1000&color=4CC9F0&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+Software+Architect;Full-Stack+Developer;ERPNext+%26+Frappe+Enthusiast;Open+Source+Advocate" alt="Typing SVG" />
+<!-- Typing Animation: Precise Roles -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=1000&color=4CC9F0&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+Software+Architect;Full-Stack+Developer;ERPNext+%26+Frappe+Specialist;Open+Source+Advocate" alt="Typing SVG" />
 
 <!-- Profile Badges -->
-<p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=binadev29&label=PROFILE%20VIEWS&color=4361EE&style=for-the-badge" alt="Views" />
   <img src="https://img.shields.io/github/followers/binadev29?label=FOLLOWERS&style=for-the-badge&color=7209B7&logo=github" alt="Followers" />
   <img src="https://img.shields.io/badge/STATUS-AVAILABLE-success?style=for-the-badge&logo=handshake" alt="Available" />
   <img src="https://img.shields.io/badge/LOCATION-ETHIOPIA%20🇪🇹-E63946?style=for-the-badge" alt="Location" />
 </p>
 
-<h3>🌌 Welcome to My Digital Universe 🌌</h3>
+<h3>🌌 Welcome to My Interactive Universe 🌌</h3>
 
 ---
 
@@ -36,7 +36,7 @@ const identity = {
   origin: "Addis Ababa, Ethiopia 🇪🇹",
   expertise: [
     "Enterprise Resource Planning (ERP)", 
-    "Software Architecture", 
+    "System Architecture", 
     "Full-Stack Engineering"
   ],
   toolkit: [".NET Core", "Python", "React", "TypeScript"],
@@ -44,10 +44,10 @@ const identity = {
   current_project: "Global ERP Solutions & Automation 🚀"
 };
 
-console.log("Composing complex algorithms, architecting the digital future.");
+console.log("Solving global problems through algorithmic elegance.");
 ```
 
-**Ambitious & Passion-driven Computer Science student.** I specialize in building complex backend logic for enterprise systems (ERPNext/Frappe) and seamless frontend experiences (React/Modern CSS). Dedicated to turning theoretical concepts into impactful world-class software.
+**Ambitious Computer Science student.** Dedicated to mastering software architecture and building high-performance systems. I specialize in backend logic (ERPNext/Frappe) and modern frontend UI/UX (React). Driven by a mission to turn complex problems into world-class software solutions.
 
 </td>
 <td width="45%" align="center">
@@ -59,7 +59,7 @@ console.log("Composing complex algorithms, architecting the digital future.");
 
 ---
 
-## 🛠️ The Tech Stack (Core Technologies)
+## 🛠️ The Tech Stack (Core Engineering Toolkit)
 
 <div align="center">
 
@@ -87,7 +87,7 @@ console.log("Composing complex algorithms, architecting the digital future.");
 
 ---
 
-## 🚀 Featured Engineering Works (Enterprise Systems)
+## 🚀 Featured Engineering Works (Enterprise Automation)
 
 <div align="center">
 
@@ -122,7 +122,7 @@ console.log("Composing complex algorithms, architecting the digital future.");
 **✨ Key Innovations:**
 - 📅 **Dynamic Leave Allocation** (Annual, Sick, Maternity).
 - 💰 **Severance Pay Automation** according to proclamation.
-- 🔔 **Probation Expiry Alerts** and automated cron workflows.
+- 🔔 **Probation Expiry Alerts** and automated workflows.
 
 <div align="center">
 
@@ -138,7 +138,7 @@ console.log("Composing complex algorithms, architecting the digital future.");
 
 ---
 
-## 📊 Analytics & Insights
+## 📊 Analytics & Impact Insights
 
 <div align="center">
 
@@ -194,7 +194,7 @@ graph TD
     end
     
     subgraph "Impact: Open Source & Mentorship"
-    C1[Global Infrastructure]
+    C1[Global Digital Impact]
     C2[Building Future-Proof Systems]
     end
     
@@ -246,7 +246,7 @@ graph TD
 
 <br/>
 
-*"Pioneering the digital renaissance from Ethiopia through algorithmic elegance and software craftsmanship. 💻🌍"*
+*"Solving global problems through software elegance and algorithmic logic. 💻🌍"*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=footer&animation=twinkling" width="100%"/>
 
