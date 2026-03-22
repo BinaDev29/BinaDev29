@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Biniyam%20Tehakele&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35" alt="Banner" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=1000&color=4CC9F0&center=true&vCenter=true&width=600&lines=Full-Stack+Architect;React+%26+.NET+Expert;ERPNext+%26+Frappe+Specialist;Ethiopian+Tech+Innovator;Open+Source+Advocate" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=1000&color=4CC9F0&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+Software+Architect;Full-Stack+Developer;ERPNext+%26+Frappe+Enthusiast;Open+Source+Advocate" alt="Typing SVG" />
 
 <!-- Profile Badges -->
 <p>
@@ -14,13 +14,13 @@
   <img src="https://img.shields.io/badge/LOCATION-ETHIOPIA%20🇪🇹-E63946?style=for-the-badge" alt="Location" />
 </p>
 
-<h3>🌌 Welcome to My Interactive Universe 🌌</h3>
+<h3>🌌 Welcome to My Digital Universe 🌌</h3>
 
 ---
 
 </div>
 
-## 👨‍🔬 The Architect's Profile
+## 👨‍💻 The Architect's Profile
 
 <div align="center">
 <table>
@@ -30,24 +30,24 @@
 ```typescript
 /**
  * @profile Biniyam Tehakele
- * @role Full-Stack Developer & ERP Specialist
+ * @role Computer Science Student & Full-Stack Developer
  */
 const identity = {
   origin: "Addis Ababa, Ethiopia 🇪🇹",
   expertise: [
     "Enterprise Resource Planning (ERP)", 
-    "Distributed Systems", 
-    "Modern UI/UX"
+    "Software Architecture", 
+    "Full-Stack Engineering"
   ],
-  toolkit: ["React", ".NET Core", "TypeScript", "Python"],
-  mission: "Building high-performance, scalable digital solutions.",
-  current_project: "ECX Property Automation & HR ERP 🚀"
+  toolkit: [".NET Core", "Python", "React", "TypeScript"],
+  mission: "Bridging theoretical Computer Science with practical software excellence.",
+  current_project: "Global ERP Solutions & Automation 🚀"
 };
 
-console.log("Engineering the future, one commit at a time.");
+console.log("Composing complex algorithms, architecting the digital future.");
 ```
 
-**Self-taught & Passion-driven innovator.** I specialize in building complex backend logic for enterprise systems (ERPNext/Frappe) and seamless frontend experiences (React/Modern CSS). Dedicated to code that is a work of art.
+**Ambitious & Passion-driven Computer Science student.** I specialize in building complex backend logic for enterprise systems (ERPNext/Frappe) and seamless frontend experiences (React/Modern CSS). Dedicated to turning theoretical concepts into impactful world-class software.
 
 </td>
 <td width="45%" align="center">
@@ -59,35 +59,35 @@ console.log("Engineering the future, one commit at a time.");
 
 ---
 
-## 🛠️ The Tech Arsenal
+## 🛠️ The Tech Stack (Core Technologies)
 
 <div align="center">
 
 ### 🎨 Frontend Engineering
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,sass,bootstrap,figma,threejs" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind" />
 </p>
 
 ### ⚙️ Backend & Systems
 <p align="center">
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,python,cs,go,graphql,solidity" />
+<img src="https://skillicons.dev/icons?i=dotnet,python,javascript,typescript,nodejs,express" />
 </p>
 
-### 💾 Data & Cloud
+### 💾 Data & Infrastructure
 <p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,firebase,supabase,aws,azure" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,docker,azure" />
 </p>
 
 ### 🔧 Tools & Workflow
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,windows,vscode,postman,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,windows,linux,vscode,postman,figma" />
 </p>
 
 </div>
 
 ---
 
-## 🚀 Featured Engineering Works (ERP & Enterprise)
+## 🚀 Featured Engineering Works (Enterprise Systems)
 
 <div align="center">
 
@@ -100,10 +100,16 @@ console.log("Engineering the future, one commit at a time.");
 
 **ERPNext Implementation for Ethiopian Commodity Exchange.**
 
-**✨ Key Innovation:**
-- 🛡️ **Safety Box Logic** with dynamic weight validation.
-- 📦 **User Custodian tracking** for enterprise assets.
-- 📄 **Custom GRN/SIV** automated workflows.
+**✨ Key Innovations:**
+- 🛡️ **Safety Box Logic** with dynamic weight/volume validation.
+- 📦 **User Custodian tracking** for enterprise-scale assets.
+- 📄 **Custom GRN/SIV** automated document management.
+
+<div align="center">
+
+[![Repo](https://img.shields.io/badge/REPOSITORY-1a1b26?style=for-the-badge&logo=github)](https://github.com/binadev29/ERPNext_Server_Script/tree/main/Stock)
+
+</div>
 
 </td>
 <td width="50%" valign="top">
@@ -113,10 +119,16 @@ console.log("Engineering the future, one commit at a time.");
 
 **Advanced HR management customized for Ethiopian Labor Law.**
 
-**✨ Key Innovation:**
+**✨ Key Innovations:**
 - 📅 **Dynamic Leave Allocation** (Annual, Sick, Maternity).
 - 💰 **Severance Pay Automation** according to proclamation.
-- 🔔 **Probation Expiry Alerts** and automated workflows.
+- 🔔 **Probation Expiry Alerts** and automated cron workflows.
+
+<div align="center">
+
+[![Repo](https://img.shields.io/badge/REPOSITORY-1a1b26?style=for-the-badge&logo=github)](https://github.com/binadev29/ERPNext_Server_Script/tree/main/HR)
+
+</div>
 
 </td>
 </tr>
@@ -152,9 +164,9 @@ console.log("Engineering the future, one commit at a time.");
 
 <div align="center">
 
-<!-- GitHub Trophies -->
+<!-- Activity Graph -->
 <a href="https://github.com/binadev29">
-  <img src="https://github-profile-trophy.vercel.app/?username=binadev29&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=binadev29&theme=tokyo-night&bg_color=1a1b26&color=ff79c6&line=70d6ff&point=a8b2d1&area=true&hide_border=true" alt="Activity Graph" />
 </a>
 
 </div>
@@ -171,19 +183,19 @@ graph TD
     B --> C[Visionary Leadership]
     
     subgraph "Core: .NET / Frappe / React"
-    A1[Clean Architecture]
+    A1[High-Level System Design]
     A2[Enterprise ERP Automation]
     end
     
-    subgraph "Learning: Cloud & AI"
+    subgraph "Learning: Cloud & Distributed Computing"
     B1[AWS Solutions Architect]
     B2[AI-Powered Workflows]
     B3[K8s Orchestration]
     end
     
-    subgraph "Impact: Open Source"
-    C1[Tech Mentorship]
-    C2[Global Scale Systems]
+    subgraph "Impact: Open Source & Mentorship"
+    C1[Global Infrastructure]
+    C2[Building Future-Proof Systems]
     end
     
     A --> A1 & A2
@@ -234,7 +246,7 @@ graph TD
 
 <br/>
 
-*"Engineering the digital renaissance from Ethiopia to the globe. 🌍"*
+*"Pioneering the digital renaissance from Ethiopia through algorithmic elegance and software craftsmanship. 💻🌍"*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=footer&animation=twinkling" width="100%"/>
 
