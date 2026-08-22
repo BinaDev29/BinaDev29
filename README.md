@@ -8,34 +8,34 @@
 <!-- ============================================================ -->
 <!-- TYPING ANIMATION                                              -->
 <!-- ============================================================ -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=4CC9F0&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Aspiring+Full-Stack+Developer;ERPNext+%26+Frappe+Enthusiast;Open+Source+Contributor;Building+for+a+Global+Audience" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=4CC9F0&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Aspiring+Software+Developer;ERPNext+%26+Frappe+Enthusiast;Open+Source+Contributor;Learning+to+Build+for+a+Global+Audience" alt="Typing SVG" />
 
 <!-- ============================================================ -->
 <!-- PROFILE BADGES                                                -->
 <!-- ============================================================ -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=binadev29&label=PROFILE%20VIEWS&color=4361EE&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=binadev29&label=PROFILE+VIEWS&color=4361EE&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/binadev29?label=FOLLOWERS&style=for-the-badge&color=7209B7&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-success?style=for-the-badge&logo=handshake" alt="Available" />
-  <img src="https://img.shields.io/badge/BASED%20IN-ETHIOPIA-E63946?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/STATUS-STUDENT-success?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/BASED_IN-ETHIOPIA-E63946?style=for-the-badge" alt="Location" />
 </p>
 
-<h3>🌐 Computer Science Student • Building Systems That Scale Across Borders 🌐</h3>
+<h3>🎓 Computer Science Student • Learning to Build Systems That Scale 🌐</h3>
 
 <p>
-  <a href="#-about-me">About</a> •
-  <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-featured-projects">Projects</a> •
-  <a href="#-github-analytics">Analytics</a> •
-  <a href="#-roadmap">Roadmap</a> •
-  <a href="#-lets-connect">Contact</a>
+  <a href="#about-me">About</a> •
+  <a href="#tech-stack">Tech Stack</a> •
+  <a href="#featured-projects">Projects</a> •
+  <a href="#github-analytics">Analytics</a> •
+  <a href="#roadmap">Roadmap</a> •
+  <a href="#lets-connect">Contact</a>
 </p>
 
 ---
 
 </div>
 
-## 👨‍💻 About Me
+## About Me
 
 <div align="center">
 <table>
@@ -45,49 +45,48 @@
 ```typescript
 /**
  * @profile Biniyam Tehakele
- * @role   Computer Science Student (Full-Stack Development track)
+ * @role   Computer Science Student
  * @base   Addis Ababa, Ethiopia
  */
 const profile = {
-  base: "Addis Ababa, Ethiopia 🇪🇹",
-  worksWith: "Clients & teams worldwide 🌍",
-  focus: [
+  base: "Addis Ababa, Ethiopia",
+  status: "Computer Science student",
+  learning: [
     "Enterprise Resource Planning (ERP)",
     "System Architecture",
-    "Full-Stack Engineering",
+    "Full-Stack Web Development",
   ],
-  stack: [".NET Core", "Python", "React", "TypeScript"],
-  mission:
-    "Building reliable, well-architected software for global teams.",
-  currentlyBuilding: "ERP automation & workflow tooling 🚀",
+  toolkit: [".NET Core", "Python", "React", "TypeScript"],
+  goal: "Turning classroom concepts into real, working software.",
+  currentlyBuilding: "ERP automation & workflow tooling",
 };
 
 function introduce(p: typeof profile): string {
   return [
-    `Hi, I'm Biniyam — a developer based in ${p.base}.`,
-    `I specialize in ${p.focus.join(", ")}.`,
+    `Hi, I'm Biniyam — a ${p.status} based in ${p.base}.`,
+    `I'm learning ${p.learning.join(", ")}.`,
     `Currently building: ${p.currentlyBuilding}`,
   ].join("\n");
 }
 
 console.log(introduce(profile));
-// -> Open to remote & international collaboration.
 ```
 
-I'm a Computer Science student focused on backend architecture
-(ERPNext/Frappe) and modern frontend engineering (React/TypeScript).
-Alongside my studies, I build software for real organizations and
-collaborate happily across time zones with teams anywhere in the world.
+I'm a Computer Science student based in Ethiopia, currently learning
+backend architecture (ERPNext/Frappe) and modern frontend development
+(React/TypeScript) alongside my coursework. I enjoy turning what I
+learn in class into real projects, and I'm open to internships,
+freelance work, and collaboration with people anywhere in the world.
 
-**What I care about:**
-- Clean, maintainable architecture over quick hacks
-- Automating repetitive business processes end-to-end
-- Writing documentation people actually want to read
-- Shipping small, testable increments rather than giant rewrites
+**What I'm focused on right now:**
+- Strengthening my computer science fundamentals (data structures, algorithms, databases)
+- Building practical ERP automation projects to apply what I learn
+- Getting comfortable with modern frontend tooling (React, TypeScript)
+- Contributing to small open-source scripts and repositories
 
 </td>
 <td width="45%" align="center">
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="320"/>
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="320" alt="Coding animation" />
 </td>
 </tr>
 </table>
@@ -95,60 +94,56 @@ collaborate happily across time zones with teams anywhere in the world.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### Frontend
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind" />
-</p>
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind" alt="Frontend stack" />
 
-### Backend & Systems
-<p align="center">
-<img src="https://skillicons.dev/icons?i=dotnet,python,javascript,typescript,nodejs,express" />
-</p>
+**Backend & Systems**
+<br/>
+<img src="https://skillicons.dev/icons?i=dotnet,python,javascript,typescript,nodejs,express" alt="Backend stack" />
 
-### Data & Infrastructure
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,docker,azure" />
-</p>
+**Data & Infrastructure**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,docker,azure" alt="Infrastructure stack" />
 
-### Tools & Workflow
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,windows,linux,vscode,postman,figma" />
-</p>
+**Tools & Workflow**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,windows,linux,vscode,postman,figma" alt="Tools" />
 
 </div>
 
-### Proficiency Snapshot
+### What I'm Learning vs. What I'm Comfortable With
 
-| Category | Technologies | Comfort Level |
+| Category | Technologies | Level |
 | :--- | :--- | :--- |
-| Backend Frameworks | ERPNext / Frappe, .NET Core, Express | ⭐⭐⭐⭐⭐ |
-| Languages | Python, TypeScript, JavaScript, C# | ⭐⭐⭐⭐⭐ |
-| Frontend | React, Next.js, Tailwind CSS | ⭐⭐⭐⭐ |
-| Databases | PostgreSQL, MySQL, MongoDB, Redis | ⭐⭐⭐⭐ |
-| DevOps | Docker, Azure, Git/GitHub Actions | ⭐⭐⭐ |
-| Other | REST API design, system architecture, automation scripting | ⭐⭐⭐⭐ |
+| Backend Frameworks | ERPNext / Frappe, .NET Core, Express | Comfortable |
+| Languages | Python, JavaScript, TypeScript, C# | Comfortable |
+| Frontend | React, Next.js, Tailwind CSS | Learning |
+| Databases | PostgreSQL, MySQL, MongoDB, Redis | Comfortable |
+| DevOps | Docker, Azure, GitHub Actions | Learning |
+| CS Fundamentals | Data structures, algorithms, OS, networks | Studying (coursework) |
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏢 ECX Property Automation System (PAS)
+### ECX Property Automation System (PAS)
 
-**ERPNext implementation for a commodity exchange platform.**
+**ERPNext customization project for a commodity exchange platform.**
 
-- 🛡️ Custom safety-box logic with dynamic weight/volume validation
-- 📦 Enterprise-scale asset & custodian tracking
-- 📄 Automated GRN/SIV document workflows
-- 🔄 Server-side scripting to enforce business rules at the database layer
+- Custom safety-box logic with dynamic weight/volume validation
+- Enterprise-scale asset and custodian tracking
+- Automated GRN/SIV document workflows
+- Server-side scripting to enforce business rules
 
 **Stack:** Frappe / ERPNext, Python, MariaDB
 
@@ -157,15 +152,14 @@ collaborate happily across time zones with teams anywhere in the world.
 </td>
 <td width="50%" valign="top">
 
-### ⚖️ ERPNext HR Automation
+### ERPNext HR Automation
 
-**Configurable HR management built for local labor-law compliance,
-adaptable to other jurisdictions.**
+**HR management customization aligned with local labor-law rules.**
 
-- 📅 Dynamic leave allocation (annual, sick, maternity)
-- 💰 Automated severance/termination pay calculations
-- 🔔 Probation-expiry alerts & automated workflows
-- 📊 HR reporting dashboards for management review
+- Dynamic leave allocation (annual, sick, maternity)
+- Automated severance/termination pay calculations
+- Probation-expiry alerts and automated workflows
+- Basic HR reporting for management review
 
 **Stack:** Frappe / ERPNext, Python, JavaScript
 
@@ -176,72 +170,60 @@ adaptable to other jurisdictions.**
 </table>
 </div>
 
-### More on GitHub
-
-Browse the rest of my work, including smaller scripts, experiments, and
-contributions, directly on my profile:
-
-[![More Projects](https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-24292e?style=for-the-badge&logo=github)](https://github.com/binadev29?tab=repositories)
-
----
-
-## 📊 GitHub Analytics
-
 <div align="center">
 
-<a href="https://github.com/binadev29">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=binadev29&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=70d6ff&icon_color=ff79c6&text_color=a8b2d1&bg_color=1a1b26&cache_seconds=86400" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binadev29&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=70d6ff&text_color=a8b2d1&bg_color=1a1b26&exclude_repo=binadev29&cache_seconds=86400" alt="Top Languages"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/binadev29">
-  <img src="https://streak-stats.demolab.com?user=binadev29&theme=tokyonight&hide_border=true&background=1a1b26&stroke=ff79c6&ring=70d6ff&fire=ff79c6&currStreakNum=a8b2d1&sideNums=a8b2d1&currStreakLabel=70d6ff&sideLabels=70d6ff&dates=a8b2d1" alt="GitHub Streak" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/binadev29">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=binadev29&theme=tokyo-night&bg_color=1a1b26&color=ff79c6&line=70d6ff&point=a8b2d1&area=true&hide_border=true" alt="Activity Graph" />
-</a>
+[![More Projects](https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-24292e?style=for-the-badge&logo=github)](https://github.com/binadev29?tab=repositories)
 
 </div>
 
-> ⚠️ **Note on reliability:** `github-readme-stats.vercel.app` is a shared
-> public instance used by thousands of profiles. GitHub enforces an hourly
-> API-call limit on that server's account, so cards occasionally show
-> "Failed to retrieve contributions" when the shared quota is exhausted —
-> this is not an issue with your account or this file. `cache_seconds=86400`
-> above tells the service to keep serving your last successful render for
-> 24 hours, which prevents most failures from ever reaching your visitors.
-> For a permanent fix, deploy your own free instance from the
-> [github-readme-stats repository](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own)
-> and swap the domain in the image URLs above for your own Vercel URL.
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=binadev29&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=70d6ff&icon_color=ff79c6&text_color=a8b2d1&bg_color=1a1b26&cache_seconds=86400" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binadev29&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=70d6ff&text_color=a8b2d1&bg_color=1a1b26&exclude_repo=binadev29&cache_seconds=86400" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=binadev29&theme=tokyonight&hide_border=true&background=1a1b26&stroke=ff79c6&ring=70d6ff&fire=ff79c6&currStreakNum=a8b2d1&sideNums=a8b2d1&currStreakLabel=70d6ff&sideLabels=70d6ff&dates=a8b2d1" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=binadev29&theme=tokyo-night&bg_color=1a1b26&color=ff79c6&line=70d6ff&point=a8b2d1&area=true&hide_border=true" alt="Activity Graph" />
+
+</div>
+
+> **Note:** these cards are generated by free public services. They may
+> occasionally show a loading error if the shared server is temporarily
+> over its API limit — this is not related to your account. The
+> `cache_seconds=86400` parameter keeps the last successful result
+> cached for 24 hours to minimize this.
 
 ---
 
-## 🎯 Roadmap
+## Roadmap
 
 ```mermaid
 graph TD
-    A[Core Mastery] --> B[Advanced Engineering]
-    B --> C[Global Impact]
+    A[CS Fundamentals] --> B[Applied Projects]
+    B --> C[Professional Growth]
 
-    subgraph "Core: .NET / Frappe / React"
-    A1[System Design]
-    A2[ERP Automation]
+    subgraph "Now: Coursework + ERPNext + React"
+    A1[Data Structures and Algorithms]
+    A2[Database Systems]
     end
 
-    subgraph "Next: Cloud & Distributed Systems"
-    B1[Cloud Architecture]
-    B2[AI-Powered Workflows]
-    B3[Kubernetes Orchestration]
+    subgraph "Next: Broader Engineering Skills"
+    B1[Cloud Basics - Azure or AWS]
+    B2[Testing and CI/CD]
+    B3[More Frontend Depth]
     end
 
-    subgraph "Impact: Open Source & Collaboration"
-    C1[Cross-Border Projects]
-    C2[Mentorship]
+    subgraph "Later: Career Building"
+    C1[Internship or Entry-Level Role]
+    C2[Open Source Contributions]
     end
 
     A --> A1 & A2
@@ -251,16 +233,16 @@ graph TD
 
 ### Milestones
 
-- [x] Ship production ERP automation for a national exchange platform
-- [x] Build a full HR automation suite aligned with local labor law
-- [ ] Deploy a self-hosted analytics pipeline for open-source metrics
-- [ ] Contribute to a major open-source Frappe/ERPNext module
-- [ ] Earn a cloud solutions architect certification
-- [ ] Mentor two junior developers through a full project cycle
+- [x] Build ERP automation for a commodity exchange platform
+- [x] Build an HR automation module for ERPNext
+- [ ] Complete core CS coursework (algorithms, OS, networks)
+- [ ] Contribute to an open-source Frappe/ERPNext repository
+- [ ] Complete a summer internship
+- [ ] Build a personal full-stack project from scratch
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -275,16 +257,16 @@ graph TD
 <img src="https://img.shields.io/badge/PORTFOLIO-FFB703?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
 </a>
 <a href="https://calendly.com/biniyamtehakele">
-<img src="https://img.shields.io/badge/BOOK%20A%20CALL-4361EE?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Calendly" />
+<img src="https://img.shields.io/badge/BOOK_A_CALL-4361EE?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Calendly" />
 </a>
 </p>
 
-| 🌍 Base Location | ⏰ Timezone | ⚡ Typical Response Time |
+| Location | Timezone | Typical Response Time |
 | :--- | :--- | :--- |
 | Addis Ababa, Ethiopia | UTC+3 (EAT) | Within 12 hours |
 
-I work with clients and teams across the US, Europe, Middle East, and
-Africa, and I'm happy to schedule calls that fit your timezone.
+Open to internships, freelance projects, and remote collaboration with
+teams anywhere in the world.
 
 </div>
 
@@ -292,11 +274,8 @@ Africa, and I'm happy to schedule calls that fit your timezone.
 
 <div align="center">
 
-*"Solving problems through clean architecture and thoughtful engineering — wherever you're building from."*
+*"Still learning, still building — one project at a time."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=footer&animation=twinkling" width="100%" />
 
 </div>
-
-<!-- End of README -->
-<!-- Thanks for reading this far! -->
