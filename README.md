@@ -27,6 +27,29 @@
 
 </div>
 
+<details>
+<summary><b>📑 Table of contents</b></summary>
+
+<br/>
+
+1. [About Me](#about-me)
+2. [Education & Focus](#education--focus)
+3. [Tech Stack](#tech-stack)
+4. [Featured Projects](#featured-projects)
+5. [Project Deep Dives](#project-deep-dives)
+6. [GitHub Analytics](#github-analytics)
+7. [Recent GitHub Activity](#recent-github-activity)
+8. [Engineering Principles](#engineering-principles)
+9. [How I Work](#how-i-work)
+10. [Services I Can Help With](#services-i-can-help-with)
+11. [Roadmap](#roadmap)
+12. [Learning Resources](#learning-resources)
+13. [Let's Connect](#lets-connect)
+14. [Translations](#translations)
+15. [FAQ](#faq)
+
+</details>
+
 ## About Me
 
 <div align="center">
@@ -97,6 +120,28 @@ freelance work, and remote collaboration with teams anywhere in the world.
 | 💬 **Ask me about** | ERPNext customization, Python server scripts, C# basics |
 | 📫 **How to reach me** | Email or LinkedIn (links below) |
 | ⚡ **Fun fact** | I like turning real business rules into working code |
+
+---
+
+## Education & Focus
+
+| | |
+| :--- | :--- |
+| 🎓 **University** | Debre Berhan University, Ethiopia |
+| 📚 **Field** | Computer Science (current student) |
+| 🧭 **Main interests** | ERP systems, backend architecture, full-stack web development |
+| 🗣️ **Languages** | Amharic (native), English (professional working) |
+| 🌍 **Collaboration style** | Remote friendly, written updates, small pull requests |
+
+### Coursework Map
+
+| Subject | Why it matters for my projects |
+| :--- | :--- |
+| Data structures & algorithms | Writing scripts that stay fast when ERP tables grow |
+| Database systems | Designing doctypes and queries in MariaDB / PostgreSQL |
+| Operating systems | Understanding processes, files and deployment on Linux |
+| Computer networks | Reasoning about APIs, HTTP and secure communication |
+| Software engineering | Requirements, testing, version control, code review |
 
 ---
 
@@ -229,6 +274,80 @@ Every badge below is read live from GitHub by shields.io, so the numbers update 
 
 </div>
 
+## Project Deep Dives
+
+> The diagrams and code below are simplified teaching examples that show the *style* of my work.
+> They are not copies of production rules.
+
+### ECX Property Automation System: document flow
+
+```mermaid
+flowchart LR
+    A[Stock request] --> B{Server script validation}
+    B -- weight or volume too high --> C[Rejected with a clear message]
+    B -- within capacity --> D[GRN created]
+    D --> E[Asset recorded to custodian]
+    E --> F[SIV issued on release]
+    F --> G[Custodian ledger updated]
+```
+
+| Concern | How it is handled |
+| :--- | :--- |
+| Capacity limits | Server-side validation of total weight and volume per safety box |
+| Traceability | Every asset is linked to a custodian and a document |
+| Repetitive paperwork | GRN and SIV documents are created by workflow, not by hand |
+| Business rules | Enforced in server scripts so they cannot be skipped from the browser |
+
+### ERPNext HR Automation: leave and probation logic
+
+```mermaid
+flowchart TD
+    H[Employee record] --> I[Leave allocation rules]
+    H --> J[Probation end date]
+    H --> K[Termination event]
+    I --> L[Annual, sick, maternity balances]
+    J --> M[Alert to HR before expiry]
+    K --> N[Severance calculation]
+    L --> O[HR report for management]
+    M --> O
+    N --> O
+```
+
+A simplified example of the kind of scheduled script used for probation alerts (illustrative only):
+
+```python
+import frappe
+from frappe.utils import add_days, getdate, nowdate
+
+
+def notify_probation_ending(days_ahead: int = 14) -> None:
+    """Email HR about employees whose probation ends soon."""
+    target = add_days(getdate(nowdate()), days_ahead)
+
+    employees = frappe.get_all(
+        "Employee",
+        filters={"status": "Active", "final_confirmation_date": target},
+        fields=["name", "employee_name", "final_confirmation_date"],
+    )
+
+    for emp in employees:
+        frappe.sendmail(
+            recipients=["hr@example.com"],
+            subject=f"Probation ends on {emp.final_confirmation_date}: {emp.employee_name}",
+            message="Please review and confirm or extend this probation period.",
+        )
+```
+
+### What each project taught me
+
+| Lesson | Where it showed up |
+| :--- | :--- |
+| Validate on the server, not only in the form | Safety-box capacity rules |
+| Model the real document trail first | GRN and SIV workflows |
+| Automate the boring, risky calculations | Leave balances and severance pay |
+| Alerts beat memory | Probation expiry notices |
+| Small scripts are easier to test and review | Both ERPNext repositories |
+
 ---
 
 ## GitHub Analytics
@@ -333,6 +452,51 @@ def validate_safety_box(doc, method=None):
 
 ---
 
+## How I Work
+
+```mermaid
+flowchart LR
+    A[Understand the problem] --> B[Sketch the data and flow]
+    B --> C[Build a small working version]
+    C --> D[Review and test]
+    D --> E[Deploy]
+    E --> F[Document and improve]
+    F --> A
+```
+
+**My definition of done**
+
+- [x] The requirement is written down in plain words
+- [x] The rule is enforced on the server
+- [x] Edge cases were tried by hand (empty values, zero, very large numbers)
+- [x] The change is small enough to review in one sitting
+- [x] A short note explains how to use it and how to undo it
+
+### Communication
+
+| Topic | What to expect |
+| :--- | :--- |
+| Updates | Short written summary of what changed and what is next |
+| Questions | Asked early, with the options and my recommendation |
+| Time zone | UTC+3, with overlap tables for US, EU and APAC above |
+| Tools | GitHub issues and pull requests, email, and calls when needed |
+
+---
+
+## Services I Can Help With
+
+| Service | Typical deliverable | Good first step |
+| :--- | :--- | :--- |
+| ERPNext / Frappe customization | Custom fields, server scripts, workflows, print formats | Send the business process you want to automate |
+| Python automation | Scripts for reports, imports, scheduled jobs | Share a sample of the data and the desired result |
+| Backend APIs | REST endpoints in .NET Core or Node.js with a database | Describe the data and who will use the API |
+| Small full-stack apps | React + TypeScript front end with an API | Share a rough sketch or list of screens |
+| Database work | Schema design, queries, migrations | Share the current tables or a diagram |
+
+> I am a student, so I am clear about scope. I would rather deliver a smaller, correct solution than promise too much.
+
+---
+
 ## Roadmap
 
 ```mermaid
@@ -378,6 +542,31 @@ graph TD
 | Q1 2027 | Add automated tests to ERPNext scripts | Test suite and a CI badge |
 | Q2 2027 | Deploy a project with Docker on a cloud VM | Live demo link in the portfolio |
 | Q3 2027 | Contribute a pull request to an open-source app | Merged PR |
+
+---
+
+## Learning Resources
+
+The official documentation I keep open while I work and study.
+
+| Topic | Resource |
+| :--- | :--- |
+| Frappe Framework | [frappeframework.com/docs](https://frappeframework.com/docs) |
+| ERPNext | [docs.erpnext.com](https://docs.erpnext.com) |
+| .NET and C# | [learn.microsoft.com/dotnet](https://learn.microsoft.com/dotnet) |
+| Python | [docs.python.org](https://docs.python.org/3/) |
+| Web platform | [developer.mozilla.org](https://developer.mozilla.org) |
+| React | [react.dev](https://react.dev) |
+| TypeScript | [typescriptlang.org/docs](https://www.typescriptlang.org/docs/) |
+| Git and GitHub | [docs.github.com](https://docs.github.com) |
+| Docker | [docs.docker.com](https://docs.docker.com) |
+
+### Study Habits
+
+- One topic at a time, then a small project that uses it
+- Read the official docs before tutorials
+- Write a short note after each lesson
+- Reuse old code only after I understand it
 
 ---
 
@@ -686,6 +875,23 @@ The activity step looks for the two comment markers `<!--START_SECTION:activity-
 | Private contributions missing | Default token sees public data only | Add the `GH_STATS_TOKEN` secret |
 
 </details>
+
+---
+
+## Support
+
+If something here helped you, you can:
+
+- ⭐ Star a repository you found useful
+- 🐛 Open an issue if you find a bug
+- 🤝 Send a pull request with an improvement
+- 💬 Say hello by email or LinkedIn
+
+<div align="center">
+
+[![Follow](https://img.shields.io/github/followers/BinaDev29?label=Follow&style=social)](https://github.com/BinaDev29)
+
+</div>
 
 ---
 
