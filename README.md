@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BinaDev29&label=PROFILE+VIEWS&color=4361EE&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/BinaDev29?label=FOLLOWERS&style=for-the-badge&color=7209B7&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/BinaDev29?label=TOTAL%20STARS&style=for-the-badge&color=F72585&logo=github" alt="Stars" />
   <img src="https://img.shields.io/badge/STATUS-STUDENT-success?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Status" />
   <img src="https://img.shields.io/badge/OPEN_TO-REMOTE_WORK-E63946?style=for-the-badge" alt="Open to remote" />
 </p>
@@ -212,32 +211,30 @@ freelance work, and remote collaboration with teams anywhere in the world.
 
 </div>
 
-### Live Pinned Repositories
+### Pinned Repositories (live badges)
+
+Every badge below is read live from GitHub by shields.io, so the numbers update by themselves and nothing needs to be generated first.
 
 <div align="center">
 
-<a href="https://github.com/BinaDev29/ERPNext_Server_Script">
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=BinaDev29&repo=ERPNext_Server_Script&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="ERPNext_Server_Script" />
-</a>
-<a href="https://github.com/BinaDev29/PNSFORALLAPP">
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=BinaDev29&repo=PNSFORALLAPP&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="PNSFORALLAPP" />
-</a>
-
-<a href="https://github.com/BinaDev29/SIMSS">
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=BinaDev29&repo=SIMSS&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="SIMSS" />
-</a>
-<a href="https://github.com/BinaDev29/BackEnd-MERNSTACK">
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=BinaDev29&repo=BackEnd-MERNSTACK&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="BackEnd-MERNSTACK" />
-</a>
+| Repository | Language | Last commit | Stars | Size |
+| :--- | :--- | :--- | :--- | :--- |
+| [ERPNext_Server_Script](https://github.com/BinaDev29/ERPNext_Server_Script) | ![lang](https://img.shields.io/github/languages/top/BinaDev29/ERPNext_Server_Script?style=flat-square) | ![commit](https://img.shields.io/github/last-commit/BinaDev29/ERPNext_Server_Script?style=flat-square) | ![stars](https://img.shields.io/github/stars/BinaDev29/ERPNext_Server_Script?style=flat-square) | ![size](https://img.shields.io/github/repo-size/BinaDev29/ERPNext_Server_Script?style=flat-square) |
+| [PNSFORALLAPP](https://github.com/BinaDev29/PNSFORALLAPP) | ![lang](https://img.shields.io/github/languages/top/BinaDev29/PNSFORALLAPP?style=flat-square) | ![commit](https://img.shields.io/github/last-commit/BinaDev29/PNSFORALLAPP?style=flat-square) | ![stars](https://img.shields.io/github/stars/BinaDev29/PNSFORALLAPP?style=flat-square) | ![size](https://img.shields.io/github/repo-size/BinaDev29/PNSFORALLAPP?style=flat-square) |
+| [SIMSS](https://github.com/BinaDev29/SIMSS) | ![lang](https://img.shields.io/github/languages/top/BinaDev29/SIMSS?style=flat-square) | ![commit](https://img.shields.io/github/last-commit/BinaDev29/SIMSS?style=flat-square) | ![stars](https://img.shields.io/github/stars/BinaDev29/SIMSS?style=flat-square) | ![size](https://img.shields.io/github/repo-size/BinaDev29/SIMSS?style=flat-square) |
+| [BackEnd-MERNSTACK](https://github.com/BinaDev29/BackEnd-MERNSTACK) | ![lang](https://img.shields.io/github/languages/top/BinaDev29/BackEnd-MERNSTACK?style=flat-square) | ![commit](https://img.shields.io/github/last-commit/BinaDev29/BackEnd-MERNSTACK?style=flat-square) | ![stars](https://img.shields.io/github/stars/BinaDev29/BackEnd-MERNSTACK?style=flat-square) | ![size](https://img.shields.io/github/repo-size/BinaDev29/BackEnd-MERNSTACK?style=flat-square) |
+| [FullstackWEb3](https://github.com/BinaDev29/FullstackWEb3) | ![lang](https://img.shields.io/github/languages/top/BinaDev29/FullstackWEb3?style=flat-square) | ![commit](https://img.shields.io/github/last-commit/BinaDev29/FullstackWEb3?style=flat-square) | ![stars](https://img.shields.io/github/stars/BinaDev29/FullstackWEb3?style=flat-square) | ![size](https://img.shields.io/github/repo-size/BinaDev29/FullstackWEb3?style=flat-square) |
+| [Restaurant-Order-and-Reservation-System](https://github.com/BinaDev29/Restaurant-Order-and-Reservation-System) | ![lang](https://img.shields.io/github/languages/top/BinaDev29/Restaurant-Order-and-Reservation-System?style=flat-square) | ![commit](https://img.shields.io/github/last-commit/BinaDev29/Restaurant-Order-and-Reservation-System?style=flat-square) | ![stars](https://img.shields.io/github/stars/BinaDev29/Restaurant-Order-and-Reservation-System?style=flat-square) | ![size](https://img.shields.io/github/repo-size/BinaDev29/Restaurant-Order-and-Reservation-System?style=flat-square) |
+| [Robot](https://github.com/BinaDev29/Robot) | ![lang](https://img.shields.io/github/languages/top/BinaDev29/Robot?style=flat-square) | ![commit](https://img.shields.io/github/last-commit/BinaDev29/Robot?style=flat-square) | ![stars](https://img.shields.io/github/stars/BinaDev29/Robot?style=flat-square) | ![size](https://img.shields.io/github/repo-size/BinaDev29/Robot?style=flat-square) |
 
 </div>
-
-> If a pin card shows blank, it is a rate limit on the free public renderer, not a problem with the repo.
-> The static cards in the next section do not have this problem.
 
 ---
 
 ## GitHub Analytics
+
+The stats, languages and snake images are generated by the workflow in the setup guide and stored in
+this repository, so they do not depend on a shared public server. Run that workflow once and they appear.
 
 <div align="center">
 
@@ -250,27 +247,25 @@ freelance work, and remote collaboration with teams anywhere in the world.
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BinaDev29&theme=tokyo-night&bg_color=1a1b26&color=ff79c6&line=70d6ff&point=a8b2d1&area=true&hide_border=true" alt="Activity Graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BinaDev29&theme=tokyonight" alt="Profile details" />
+
+<br/>
+
+<img height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BinaDev29&theme=tokyonight&utcOffset=3" alt="Productive time (UTC+3)" />
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/BinaDev29/BinaDev29/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%" />
+<a href="https://github.com/BinaDev29">
+  <img src="https://ghchart.rshah.org/4361EE/BinaDev29" alt="Contribution calendar" width="95%" />
+</a>
 
-</div>
+<br/><br/>
 
-### Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=BinaDev29&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
-
-</div>
-
-### Profile Summary Cards
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/BinaDev29/BinaDev29/main/profile/summary.svg" alt="Profile summary" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BinaDev29/BinaDev29/main/profile/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BinaDev29/BinaDev29/main/profile/snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/BinaDev29/BinaDev29/main/profile/snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
@@ -278,17 +273,20 @@ freelance work, and remote collaboration with teams anywhere in the world.
 
 ## Recent GitHub Activity
 
-The list below is refreshed automatically by a GitHub Action (see the setup section at the bottom).
-It reads my public events from the GitHub API, so it is always real data, never hand-edited.
+The list below is filled in automatically by the same GitHub Action (see the setup guide at the bottom).
+It lists my latest public events. Until the Action has run once, the list stays empty.
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-### Latest Repositories
+### Live Activity Badges
 
 <div align="center">
 
-[![Repo 1](https://github-readme-stats-fast.vercel.app/api/pin/?username=BinaDev29&repo=ERPNext_Server_Script&theme=dark&hide_border=true)](https://github.com/BinaDev29/ERPNext_Server_Script)
+![Followers](https://img.shields.io/github/followers/BinaDev29?style=for-the-badge&logo=github&color=7209B7)
+![Last commit](https://img.shields.io/github/last-commit/BinaDev29/ERPNext_Server_Script?style=for-the-badge&logo=github&label=LAST%20COMMIT&color=4361EE)
+![Commits per month](https://img.shields.io/github/commit-activity/m/BinaDev29/ERPNext_Server_Script?style=for-the-badge&logo=github&label=COMMITS%2FMONTH&color=3A0CA3)
+![Open issues](https://img.shields.io/github/issues/BinaDev29/ERPNext_Server_Script?style=for-the-badge&logo=github&color=F72585)
 
 </div>
 
@@ -550,9 +548,9 @@ Small, focused pull requests are easiest to review.
 
 <br/>
 
-Public stat services are rate limited and sometimes go offline. The cards in this
-README that matter most (stats, top languages, snake, recent activity) are generated
-by my own GitHub Actions and stored as static files, so they keep working.
+The stats, languages and snake cards are files generated inside this repository by a GitHub Action,
+so they do not depend on a shared server. A broken image almost always means the workflow has not
+finished its first run. Check the Actions tab of the profile repository.
 
 </details>
 
@@ -561,123 +559,92 @@ by my own GitHub Actions and stored as static files, so they keep working.
 ## Setup Guide (for the owner of this profile)
 
 <details>
-<summary><b>⚙️ One-time setup so every card and the activity feed show real data (click to expand)</b></summary>
+<summary><b>⚙️ One workflow that creates every card and the activity list (click to expand)</b></summary>
 
 <br/>
 
-The public `github-readme-stats.vercel.app` instance is no longer reliable at scale, so this
-README does **not** depend on it for the important cards. Instead, three GitHub Actions
-generate static files inside your own profile repository (`BinaDev29/BinaDev29`).
+**Do this once**
 
-**Before you start**
-
-1. The profile repository must be named exactly like your username: `BinaDev29/BinaDev29`.
-2. It must be **public**.
-3. Go to **Settings → Actions → General → Workflow permissions** and select
-   **Read and write permissions**. Without this the workflows cannot commit files.
-4. Make sure the default branch is `main`.
-
-**1. Stats & Top Languages** — create `.github/workflows/github-stats.yml`:
+1. Open the repository `BinaDev29/BinaDev29`. It must be **public** and use the `main` branch.
+2. Go to **Settings → Actions → General → Workflow permissions**, choose **Read and write permissions**, and save.
+3. Click **Add file → Create new file**, type the name `.github/workflows/profile-cards.yml`, and paste the code below.
+4. Commit it to `main`. It starts by itself because it runs on push. If it does not, open the **Actions** tab,
+   select **Profile cards and activity**, and click **Run workflow**.
+5. Wait for two green check marks (`Generate cards`, then `Update recent activity`) and refresh your profile.
 
 ```yaml
-name: Update stats cards
+name: Profile cards and activity
+
+# Put this file at:  .github/workflows/profile-cards.yml
+# in the repository BinaDev29/BinaDev29 (your profile repository, public, branch main).
+#
+# One run creates every file the README needs:
+#   profile/stats.svg       profile/top-langs.svg
+#   profile/snake.svg       profile/snake-dark.svg
+# and then fills the recent-activity list inside README.md.
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/profile-cards.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-cards
+  cancel-in-progress: false
 
 jobs:
-  build:
+  cards:
+    name: Generate cards
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    timeout-minutes: 15
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
-      - name: Generate stats card
-        uses: stats-organization/github-readme-stats-action@v1
+      - name: Stats card
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: "username=BinaDev29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&include_all_commits=true&count_private=true"
+          options: "username=BinaDev29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&include_all_commits=true"
           path: profile/stats.svg
           token: ${{ secrets.GH_STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
-      - name: Generate top languages card
-        uses: stats-organization/github-readme-stats-action@v1
+      - name: Top languages card
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: "username=BinaDev29&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b26"
           path: profile/top-langs.svg
           token: ${{ secrets.GH_STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
-      - name: Commit cards
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg
-          git commit -m "chore: update stats cards" || echo "No changes to commit"
-          git push
-```
-
-> The default `GITHUB_TOKEN` only sees public data. To count private contributions, create a
-> [personal access token](https://github.com/settings/tokens) with `repo` and `read:user`
-> scopes and save it as a repository secret named `GH_STATS_TOKEN`. If you skip this, the
-> workflow still works with public data only.
-
-**2. Contribution snake** — create `.github/workflows/snake.yml`:
-
-```yaml
-name: Generate snake animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - uses: Platane/snk/svg-only@v3
+      - name: Contribution snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: BinaDev29
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            profile/snake.svg
+            profile/snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
+      - name: Commit generated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile/
+          git commit -m "chore: update profile cards" || echo "No changes to commit"
+          git push
 
-> This pushes the generated SVGs to an `output` branch, which the `<img>` tag in the
-> analytics section already points to.
-
-**3. Recent activity feed** — create `.github/workflows/activity.yml`:
-
-```yaml
-name: Update recent activity
-
-on:
-  schedule:
-    - cron: "*/30 * * * *"
-  workflow_dispatch:
-
-jobs:
-  update-activity:
+  activity:
+    name: Update recent activity
+    needs: cards
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
 
@@ -685,69 +652,37 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
+          GH_USERNAME: BinaDev29
           COMMIT_MSG: "chore: update recent activity"
           MAX_LINES: 10
           TARGET_FILE: "README.md"
-          EMPTY_COMMIT_MSG: "chore: refresh activity"
 ```
 
-> This action looks for the two comment markers in this README:
-> `<!--START_SECTION:activity-->` and `<!--END_SECTION:activity-->`.
-> Keep them exactly as written, with nothing between them. The action fills that space.
+> The default `GITHUB_TOKEN` sees public data only. To count private contributions in the stats card, create a
+> [personal access token](https://github.com/settings/tokens) with `repo` and `read:user` scopes and save it as a
+> repository secret named `GH_STATS_TOKEN`. The workflow already uses it when it exists.
 
-**4. Optional: profile summary card** — create `.github/workflows/summary.yml`:
+**What each step creates**
 
-```yaml
-name: Update profile summary card
+| Step | File it writes | Used in the README by |
+| :--- | :--- | :--- |
+| Stats card | `profile/stats.svg` | GitHub Analytics |
+| Top languages card | `profile/top-langs.svg` | GitHub Analytics |
+| Contribution snake | `profile/snake.svg`, `profile/snake-dark.svg` | GitHub Analytics |
+| Update recent activity | text inside `README.md` | Recent GitHub Activity |
 
-on:
-  schedule:
-    - cron: "0 3 * * *"
-  workflow_dispatch:
-
-jobs:
-  summary:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v4
-
-      - name: Generate summary card
-        uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          USERNAME: BinaDev29
-          BRANCH_NAME: main
-
-      - name: Copy the card to the path used by this README
-        run: |
-          mkdir -p profile
-          cp profile-summary-card-output/tokyonight/0-profile-details.svg profile/summary.svg || true
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add profile/summary.svg
-          git commit -m "chore: update summary card" || echo "No changes to commit"
-          git push
-```
-
-**5. Run everything once**
-
-1. Open the **Actions** tab of the profile repository.
-2. Select each workflow in the left list.
-3. Click **Run workflow** and wait for the green check mark.
-4. Refresh the profile page. The cards and the activity list now show your real data.
+The activity step looks for the two comment markers `<!--START_SECTION:activity-->` and
+`<!--END_SECTION:activity-->`. Keep both exactly as written.
 
 **Troubleshooting**
 
 | Symptom | Likely cause | Fix |
 | :--- | :--- | :--- |
-| Workflow fails with a 403 error on push | Workflow permissions are read-only | Settings → Actions → General → Read and write permissions |
-| Stats card shows 404 | The workflow has not run yet | Run it manually from the Actions tab |
-| Snake image missing | The `output` branch does not exist yet | Run the snake workflow once, then refresh |
-| Activity section stays empty | Markers were edited or removed | Restore both marker comments exactly |
-| Cards show old numbers | GitHub image cache | Wait a few minutes or hard refresh the page |
+| Push step fails with a 403 error | Workflow permissions are read-only | Settings → Actions → General → Read and write permissions |
+| Images are broken (404) | The workflow has not finished its first run | Open the Actions tab and check for a green mark |
+| Workflow does not appear in the Actions tab | File is in the wrong folder or has the wrong name | It must be `.github/workflows/profile-cards.yml` on `main` |
+| Activity list stays empty | A marker line was edited or removed | Restore both marker comments exactly |
+| Cards show old numbers | GitHub image cache | Wait a few minutes, then hard refresh |
 | Private contributions missing | Default token sees public data only | Add the `GH_STATS_TOKEN` secret |
 
 </details>
